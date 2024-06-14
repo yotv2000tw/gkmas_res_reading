@@ -97,9 +97,73 @@
 * Rewards
 	* Jewel × 100
 
+<img src="img/img_general_achievement_amao-master_001.png" style="width:200px;"/>
+
+### マスターアチーブメント: 有村 麻央のアチーブメントの★を30個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_amao-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 有村 麻央のアチーブメントの★を50個獲得
+* Rewards
+	* Jewel × 100
+	* レッスンウェア × 1
+
+<img src="img/img_general_achievement_amao-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 有村 麻央のアチーブメントの★を75個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_amao-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 有村 麻央のアチーブメントの★を100個獲得
+* Rewards
+	* Jewel × 100
+	* マスターアチーブメント 麻央 × 1
+
+<img src="img/img_general_achievement_amao-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 有村 麻央のアチーブメントの★を125個獲得
+* Rewards
+	* Jewel × 100
+
 <img src="img/img_general_achievement_fktn-master_001.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 藤田 ことねのアチーブメントの★を10個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_fktn-master_001.png" style="width:200px;"/>
+
+### マスターアチーブメント: 藤田 ことねのアチーブメントの★を30個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_fktn-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 藤田 ことねのアチーブメントの★を50個獲得
+* Rewards
+	* Jewel × 100
+	* レッスンウェア × 1
+
+<img src="img/img_general_achievement_fktn-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 藤田 ことねのアチーブメントの★を75個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_fktn-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 藤田 ことねのアチーブメントの★を100個獲得
+* Rewards
+	* Jewel × 100
+	* マスターアチーブメント ことね × 1
+
+<img src="img/img_general_achievement_fktn-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 藤田 ことねのアチーブメントの★を125個獲得
 * Rewards
 	* Jewel × 100
 
@@ -109,9 +173,73 @@
 * Rewards
 	* Jewel × 100
 
+<img src="img/img_general_achievement_hrnm-master_001.png" style="width:200px;"/>
+
+### マスターアチーブメント: 姫崎 莉波のアチーブメントの★を30個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_hrnm-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 姫崎 莉波のアチーブメントの★を50個獲得
+* Rewards
+	* Jewel × 100
+	* レッスンウェア × 1
+
+<img src="img/img_general_achievement_hrnm-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 姫崎 莉波のアチーブメントの★を75個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_hrnm-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 姫崎 莉波のアチーブメントの★を100個獲得
+* Rewards
+	* Jewel × 100
+	* マスターアチーブメント 莉波 × 1
+
+<img src="img/img_general_achievement_hrnm-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 姫崎 莉波のアチーブメントの★を125個獲得
+* Rewards
+	* Jewel × 100
+
 <img src="img/img_general_achievement_hski-master_001.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 花海 咲季のアチーブメントの★を10個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_hski-master_001.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 咲季のアチーブメントの★を30個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_hski-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 咲季のアチーブメントの★を50個獲得
+* Rewards
+	* Jewel × 100
+	* レッスンウェア × 1
+
+<img src="img/img_general_achievement_hski-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 咲季のアチーブメントの★を75個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_hski-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 咲季のアチーブメントの★を100個獲得
+* Rewards
+	* Jewel × 100
+	* マスターアチーブメント 咲季 × 1
+
+<img src="img/img_general_achievement_hski-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 咲季のアチーブメントの★を125個獲得
 * Rewards
 	* Jewel × 100
 
@@ -121,9 +249,73 @@
 * Rewards
 	* Jewel × 100
 
+<img src="img/img_general_achievement_hume-master_001.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 佑芽のアチーブメントの★を30個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_hume-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 佑芽のアチーブメントの★を50個獲得
+* Rewards
+	* Jewel × 100
+	* レッスンウェア × 1
+
+<img src="img/img_general_achievement_hume-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 佑芽のアチーブメントの★を75個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_hume-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 佑芽のアチーブメントの★を100個獲得
+* Rewards
+	* Jewel × 100
+	* マスターアチーブメント 佑芽 × 1
+
+<img src="img/img_general_achievement_hume-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 佑芽のアチーブメントの★を125個獲得
+* Rewards
+	* Jewel × 100
+
 <img src="img/img_general_achievement_kcna-master_001.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 倉本 千奈のアチーブメントの★を10個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_kcna-master_001.png" style="width:200px;"/>
+
+### マスターアチーブメント: 倉本 千奈のアチーブメントの★を30個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_kcna-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 倉本 千奈のアチーブメントの★を50個獲得
+* Rewards
+	* Jewel × 100
+	* レッスンウェア × 1
+
+<img src="img/img_general_achievement_kcna-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 倉本 千奈のアチーブメントの★を75個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_kcna-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 倉本 千奈のアチーブメントの★を100個獲得
+* Rewards
+	* Jewel × 100
+	* マスターアチーブメント 千奈 × 1
+
+<img src="img/img_general_achievement_kcna-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 倉本 千奈のアチーブメントの★を125個獲得
 * Rewards
 	* Jewel × 100
 
@@ -133,9 +325,73 @@
 * Rewards
 	* Jewel × 100
 
+<img src="img/img_general_achievement_kllj-master_001.png" style="width:200px;"/>
+
+### マスターアチーブメント: 葛城 リーリヤのアチーブメントの★を30個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_kllj-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 葛城 リーリヤのアチーブメントの★を50個獲得
+* Rewards
+	* Jewel × 100
+	* レッスンウェア × 1
+
+<img src="img/img_general_achievement_kllj-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 葛城 リーリヤのアチーブメントの★を75個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_kllj-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 葛城 リーリヤのアチーブメントの★を100個獲得
+* Rewards
+	* Jewel × 100
+	* マスターアチーブメント リーリヤ × 1
+
+<img src="img/img_general_achievement_kllj-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 葛城 リーリヤのアチーブメントの★を125個獲得
+* Rewards
+	* Jewel × 100
+
 <img src="img/img_general_achievement_shro-master_001.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 篠澤 広のアチーブメントの★を10個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_shro-master_001.png" style="width:200px;"/>
+
+### マスターアチーブメント: 篠澤 広のアチーブメントの★を30個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_shro-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 篠澤 広のアチーブメントの★を50個獲得
+* Rewards
+	* Jewel × 100
+	* レッスンウェア × 1
+
+<img src="img/img_general_achievement_shro-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 篠澤 広のアチーブメントの★を75個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_shro-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 篠澤 広のアチーブメントの★を100個獲得
+* Rewards
+	* Jewel × 100
+	* マスターアチーブメント 広 × 1
+
+<img src="img/img_general_achievement_shro-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 篠澤 広のアチーブメントの★を125個獲得
 * Rewards
 	* Jewel × 100
 
@@ -145,9 +401,73 @@
 * Rewards
 	* Jewel × 100
 
+<img src="img/img_general_achievement_ssmk-master_001.png" style="width:200px;"/>
+
+### マスターアチーブメント: 紫雲 清夏のアチーブメントの★を30個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_ssmk-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 紫雲 清夏のアチーブメントの★を50個獲得
+* Rewards
+	* Jewel × 100
+	* レッスンウェア × 1
+
+<img src="img/img_general_achievement_ssmk-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 紫雲 清夏のアチーブメントの★を75個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_ssmk-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 紫雲 清夏のアチーブメントの★を100個獲得
+* Rewards
+	* Jewel × 100
+	* マスターアチーブメント 清夏 × 1
+
+<img src="img/img_general_achievement_ssmk-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 紫雲 清夏のアチーブメントの★を125個獲得
+* Rewards
+	* Jewel × 100
+
 <img src="img/img_general_achievement_ttmr-master_001.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 月村 手毬のアチーブメントの★を10個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_ttmr-master_001.png" style="width:200px;"/>
+
+### マスターアチーブメント: 月村 手毬のアチーブメントの★を30個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_ttmr-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 月村 手毬のアチーブメントの★を50個獲得
+* Rewards
+	* Jewel × 100
+	* レッスンウェア × 1
+
+<img src="img/img_general_achievement_ttmr-master_002.png" style="width:200px;"/>
+
+### マスターアチーブメント: 月村 手毬のアチーブメントの★を75個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_ttmr-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 月村 手毬のアチーブメントの★を100個獲得
+* Rewards
+	* Jewel × 100
+	* マスターアチーブメント 手毬 × 1
+
+<img src="img/img_general_achievement_ttmr-master_003.png" style="width:200px;"/>
+
+### マスターアチーブメント: 月村 手毬のアチーブメントの★を125個獲得
 * Rewards
 	* Jewel × 100
 
@@ -167,6 +487,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_amao-001.png" style="width:200px;"/>
+
+### カッコよさだけじゃない: 有村 麻央のプロデュースでスキルカードを1500回使用
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_amao-001.png" style="width:200px;"/>
+
+### カッコよさだけじゃない: 有村 麻央のプロデュースでスキルカードを6000回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_amao-001.png" style="width:200px;"/>
+
+### カッコよさだけじゃない: 有村 麻央のプロデュースでスキルカードを20000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_amao-002.png" style="width:200px;"/>
 
 ### 道場仕込みの運動神経: 有村 麻央でレッスンを10回クリア
@@ -175,6 +519,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_amao-002.png" style="width:200px;"/>
+
+### 道場仕込みの運動神経: 有村 麻央でレッスンを100回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_amao-002.png" style="width:200px;"/>
+
+### 道場仕込みの運動神経: 有村 麻央でレッスンを300回クリア
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_amao-002.png" style="width:200px;"/>
+
+### 道場仕込みの運動神経: 有村 麻央でレッスンを1200回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_amao-003.png" style="width:200px;"/>
 
 ### ハイブリッド: 有村 麻央でSPレッスンを15回クリア
@@ -182,6 +550,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_amao-003.png" style="width:200px;"/>
+
+### ハイブリッド: 有村 麻央でSPレッスンを50回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_amao-003.png" style="width:200px;"/>
+
+### ハイブリッド: 有村 麻央でSPレッスンを200回クリア
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_amao-003.png" style="width:200px;"/>
+
+### ハイブリッド: 有村 麻央でSPレッスンを700回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_amao-004.png" style="width:200px;"/>
 
@@ -215,6 +607,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_amao-007.png" style="width:200px;"/>
+
+### 諦めきれない夢: 有村 麻央のプロデュースを10回完了
+* Rewards
+	* Exp × 400
+	* サポート強化Pt × 600
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_amao-007.png" style="width:200px;"/>
+
+### 諦めきれない夢: 有村 麻央のプロデュースを50回完了
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_amao-007.png" style="width:200px;"/>
+
+### 諦めきれない夢: 有村 麻央のプロデュースを100回完了
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_amao-008.png" style="width:200px;"/>
 
 ### 理想と現実: 有村 麻央の特訓段階を1にする
@@ -222,6 +638,30 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_amao-008.png" style="width:200px;"/>
+
+### 理想と現実: 有村 麻央の特訓段階を3にする
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_amao-008.png" style="width:200px;"/>
+
+### 理想と現実: 有村 麻央の特訓段階を5にする
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_amao-008.png" style="width:200px;"/>
+
+### 理想と現実: 有村 麻央の特訓段階を6にする
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_amao-016.png" style="width:200px;"/>
 
@@ -231,6 +671,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_amao-016.png" style="width:200px;"/>
+
+### まだ見ぬ境地: 有村 麻央のプロデュースで最終試験に40回合格
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_amao-016.png" style="width:200px;"/>
+
+### まだ見ぬ境地: 有村 麻央のプロデュースで最終試験に100回合格
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_amao-016.png" style="width:200px;"/>
+
+### まだ見ぬ境地: 有村 麻央のプロデュースで最終試験に200回合格
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_amao-009.png" style="width:200px;"/>
 
 ### リトルプリンス: 有村 麻央のファンを70000人獲得
@@ -238,6 +702,30 @@
 	* Exp × 400
 	* サポート強化Pt × 600
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_amao-009.png" style="width:200px;"/>
+
+### リトルプリンス: 有村 麻央のファンを300000人獲得
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_amao-009.png" style="width:200px;"/>
+
+### リトルプリンス: 有村 麻央のファンを600000人獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_amao-009.png" style="width:200px;"/>
+
+### リトルプリンス: 有村 麻央のファンを1000000人獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_amao-010.png" style="width:200px;"/>
 
@@ -255,6 +743,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_amao-014.png" style="width:200px;"/>
+
+### 爽やかドリンク: 有村 麻央でPドリンクを300回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_amao-014.png" style="width:200px;"/>
+
+### 爽やかドリンク: 有村 麻央でPドリンクを500回使用
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_amao-014.png" style="width:200px;"/>
+
+### 爽やかドリンク: 有村 麻央でPドリンクを1000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_amao-015.png" style="width:200px;"/>
 
 ### 護身術の達人: 有村 麻央のプロデュースで体力を合計500消費
@@ -262,6 +774,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_amao-015.png" style="width:200px;"/>
+
+### 護身術の達人: 有村 麻央のプロデュースで体力を合計15000消費
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_amao-015.png" style="width:200px;"/>
+
+### 護身術の達人: 有村 麻央のプロデュースで体力を合計30000消費
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_amao-015.png" style="width:200px;"/>
+
+### 護身術の達人: 有村 麻央のプロデュースで体力を合計45000消費
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_amao-012.png" style="width:200px;"/>
 
@@ -665,6 +1201,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_fktn-001.png" style="width:200px;"/>
+
+### QOL: 藤田 ことねのプロデュースでスキルカードを1500回使用
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_fktn-001.png" style="width:200px;"/>
+
+### QOL: 藤田 ことねのプロデュースでスキルカードを6000回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_fktn-001.png" style="width:200px;"/>
+
+### QOL: 藤田 ことねのプロデュースでスキルカードを20000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_fktn-002.png" style="width:200px;"/>
 
 ### イチバンかわいい: 藤田 ことねでレッスンを10回クリア
@@ -673,6 +1233,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_fktn-002.png" style="width:200px;"/>
+
+### イチバンかわいい: 藤田 ことねでレッスンを100回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_fktn-002.png" style="width:200px;"/>
+
+### イチバンかわいい: 藤田 ことねでレッスンを300回クリア
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_fktn-002.png" style="width:200px;"/>
+
+### イチバンかわいい: 藤田 ことねでレッスンを1200回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_fktn-003.png" style="width:200px;"/>
 
 ### 世界一かわいい: 藤田 ことねでSPレッスンを15回クリア
@@ -680,6 +1264,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_fktn-003.png" style="width:200px;"/>
+
+### 世界一かわいい: 藤田 ことねでSPレッスンを50回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_fktn-003.png" style="width:200px;"/>
+
+### 世界一かわいい: 藤田 ことねでSPレッスンを200回クリア
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_fktn-003.png" style="width:200px;"/>
+
+### 世界一かわいい: 藤田 ことねでSPレッスンを700回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_fktn-004.png" style="width:200px;"/>
 
@@ -713,6 +1321,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_fktn-007.png" style="width:200px;"/>
+
+### 成り上がれ！: 藤田 ことねのプロデュースを10回完了
+* Rewards
+	* Exp × 400
+	* サポート強化Pt × 600
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_fktn-007.png" style="width:200px;"/>
+
+### 成り上がれ！: 藤田 ことねのプロデュースを50回完了
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_fktn-007.png" style="width:200px;"/>
+
+### 成り上がれ！: 藤田 ことねのプロデュースを100回完了
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_fktn-008.png" style="width:200px;"/>
 
 ### 秘めた才能: 藤田 ことねの特訓段階を1にする
@@ -720,6 +1352,30 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_fktn-008.png" style="width:200px;"/>
+
+### 秘めた才能: 藤田 ことねの特訓段階を3にする
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_fktn-008.png" style="width:200px;"/>
+
+### 秘めた才能: 藤田 ことねの特訓段階を5にする
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_fktn-008.png" style="width:200px;"/>
+
+### 秘めた才能: 藤田 ことねの特訓段階を6にする
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_fktn-016.png" style="width:200px;"/>
 
@@ -729,6 +1385,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_fktn-016.png" style="width:200px;"/>
+
+### もっと褒めてぇ～♡: 藤田 ことねのプロデュースで最終試験に40回合格
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_fktn-016.png" style="width:200px;"/>
+
+### もっと褒めてぇ～♡: 藤田 ことねのプロデュースで最終試験に100回合格
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_fktn-016.png" style="width:200px;"/>
+
+### もっと褒めてぇ～♡: 藤田 ことねのプロデュースで最終試験に200回合格
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_fktn-009.png" style="width:200px;"/>
 
 ### 初星学園の看板娘: 藤田 ことねのファンを70000人獲得
@@ -736,6 +1416,30 @@
 	* Exp × 400
 	* サポート強化Pt × 600
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_fktn-009.png" style="width:200px;"/>
+
+### 初星学園の看板娘: 藤田 ことねのファンを300000人獲得
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_fktn-009.png" style="width:200px;"/>
+
+### 初星学園の看板娘: 藤田 ことねのファンを600000人獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_fktn-009.png" style="width:200px;"/>
+
+### 初星学園の看板娘: 藤田 ことねのファンを1000000人獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_fktn-010.png" style="width:200px;"/>
 
@@ -753,6 +1457,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_fktn-014.png" style="width:200px;"/>
+
+### アイドル適正S: 藤田 ことねでプロデュース評価を合計500000獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_fktn-014.png" style="width:200px;"/>
+
+### アイドル適正S: 藤田 ことねでプロデュース評価を合計1000000獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_fktn-014.png" style="width:200px;"/>
+
+### アイドル適正S: 藤田 ことねでプロデュース評価を合計2000000獲得
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_fktn-015.png" style="width:200px;"/>
 
 ### やりくり上手: 藤田 ことねのプロデュースの相談で15回交換
@@ -760,6 +1488,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_fktn-015.png" style="width:200px;"/>
+
+### やりくり上手: 藤田 ことねのプロデュースの相談で250回交換
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_fktn-015.png" style="width:200px;"/>
+
+### やりくり上手: 藤田 ことねのプロデュースの相談で500回交換
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_fktn-015.png" style="width:200px;"/>
+
+### やりくり上手: 藤田 ことねのプロデュースの相談で1000回交換
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_fktn-012.png" style="width:200px;"/>
 
@@ -785,6 +1537,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hrnm-001.png" style="width:200px;"/>
+
+### 理想の姉へ: 姫崎 莉波のプロデュースでスキルカードを1500回使用
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hrnm-001.png" style="width:200px;"/>
+
+### 理想の姉へ: 姫崎 莉波のプロデュースでスキルカードを6000回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hrnm-001.png" style="width:200px;"/>
+
+### 理想の姉へ: 姫崎 莉波のプロデュースでスキルカードを20000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hrnm-002.png" style="width:200px;"/>
 
 ### ほのかな芽生え: 姫崎 莉波でレッスンを10回クリア
@@ -793,6 +1569,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hrnm-002.png" style="width:200px;"/>
+
+### ほのかな芽生え: 姫崎 莉波でレッスンを100回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hrnm-002.png" style="width:200px;"/>
+
+### ほのかな芽生え: 姫崎 莉波でレッスンを300回クリア
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hrnm-002.png" style="width:200px;"/>
+
+### ほのかな芽生え: 姫崎 莉波でレッスンを1200回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hrnm-003.png" style="width:200px;"/>
 
 ### あふれだす想い: 姫崎 莉波でSPレッスンを15回クリア
@@ -800,6 +1600,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hrnm-003.png" style="width:200px;"/>
+
+### あふれだす想い: 姫崎 莉波でSPレッスンを50回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hrnm-003.png" style="width:200px;"/>
+
+### あふれだす想い: 姫崎 莉波でSPレッスンを200回クリア
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hrnm-003.png" style="width:200px;"/>
+
+### あふれだす想い: 姫崎 莉波でSPレッスンを700回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hrnm-004.png" style="width:200px;"/>
 
@@ -833,6 +1657,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hrnm-007.png" style="width:200px;"/>
+
+### 今度こそリスタート: 姫崎 莉波のプロデュースを10回完了
+* Rewards
+	* Exp × 400
+	* サポート強化Pt × 600
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hrnm-007.png" style="width:200px;"/>
+
+### 今度こそリスタート: 姫崎 莉波のプロデュースを50回完了
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hrnm-007.png" style="width:200px;"/>
+
+### 今度こそリスタート: 姫崎 莉波のプロデュースを100回完了
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hrnm-008.png" style="width:200px;"/>
 
 ### きみの気持ちに応えたい: 姫崎 莉波の特訓段階を1にする
@@ -840,6 +1688,30 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hrnm-008.png" style="width:200px;"/>
+
+### きみの気持ちに応えたい: 姫崎 莉波の特訓段階を3にする
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hrnm-008.png" style="width:200px;"/>
+
+### きみの気持ちに応えたい: 姫崎 莉波の特訓段階を5にする
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hrnm-008.png" style="width:200px;"/>
+
+### きみの気持ちに応えたい: 姫崎 莉波の特訓段階を6にする
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hrnm-016.png" style="width:200px;"/>
 
@@ -849,6 +1721,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hrnm-016.png" style="width:200px;"/>
+
+### お姉さんとの約束だよ: 姫崎 莉波のプロデュースで最終試験に40回合格
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hrnm-016.png" style="width:200px;"/>
+
+### お姉さんとの約束だよ: 姫崎 莉波のプロデュースで最終試験に100回合格
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_hrnm-016.png" style="width:200px;"/>
+
+### お姉さんとの約束だよ: 姫崎 莉波のプロデュースで最終試験に200回合格
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hrnm-009.png" style="width:200px;"/>
 
 ### お姉さんの包容力: 姫崎 莉波のファンを70000人獲得
@@ -856,6 +1752,30 @@
 	* Exp × 400
 	* サポート強化Pt × 600
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hrnm-009.png" style="width:200px;"/>
+
+### お姉さんの包容力: 姫崎 莉波のファンを300000人獲得
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hrnm-009.png" style="width:200px;"/>
+
+### お姉さんの包容力: 姫崎 莉波のファンを600000人獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hrnm-009.png" style="width:200px;"/>
+
+### お姉さんの包容力: 姫崎 莉波のファンを1000000人獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hrnm-010.png" style="width:200px;"/>
 
@@ -873,6 +1793,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hrnm-014.png" style="width:200px;"/>
+
+### 心に潤いを: 姫崎 莉波でPドリンクを300回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hrnm-014.png" style="width:200px;"/>
+
+### 心に潤いを: 姫崎 莉波でPドリンクを500回使用
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_hrnm-014.png" style="width:200px;"/>
+
+### 心に潤いを: 姫崎 莉波でPドリンクを1000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hrnm-015.png" style="width:200px;"/>
 
 ### 真面目にこつこつ: 姫崎 莉波のプロデュースで体力を合計500消費
@@ -880,6 +1824,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hrnm-015.png" style="width:200px;"/>
+
+### 真面目にこつこつ: 姫崎 莉波のプロデュースで体力を合計15000消費
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hrnm-015.png" style="width:200px;"/>
+
+### 真面目にこつこつ: 姫崎 莉波のプロデュースで体力を合計30000消費
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_hrnm-015.png" style="width:200px;"/>
+
+### 真面目にこつこつ: 姫崎 莉波のプロデュースで体力を合計45000消費
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hrnm-012.png" style="width:200px;"/>
 
@@ -905,6 +1873,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hski-001.png" style="width:200px;"/>
+
+### もう逃げない: 花海 咲季のプロデュースでスキルカードを1500回使用
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hski-001.png" style="width:200px;"/>
+
+### もう逃げない: 花海 咲季のプロデュースでスキルカードを6000回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hski-001.png" style="width:200px;"/>
+
+### もう逃げない: 花海 咲季のプロデュースでスキルカードを20000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hski-002.png" style="width:200px;"/>
 
 ### 入学試験首席の力よ！: 花海 咲季でレッスンを10回クリア
@@ -913,6 +1905,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hski-002.png" style="width:200px;"/>
+
+### 入学試験首席の力よ！: 花海 咲季でレッスンを100回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hski-002.png" style="width:200px;"/>
+
+### 入学試験首席の力よ！: 花海 咲季でレッスンを300回クリア
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hski-002.png" style="width:200px;"/>
+
+### 入学試験首席の力よ！: 花海 咲季でレッスンを1200回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hski-003.png" style="width:200px;"/>
 
 ### 早熟の天才: 花海 咲季でSPレッスンを15回クリア
@@ -920,6 +1936,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hski-003.png" style="width:200px;"/>
+
+### 早熟の天才: 花海 咲季でSPレッスンを50回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hski-003.png" style="width:200px;"/>
+
+### 早熟の天才: 花海 咲季でSPレッスンを200回クリア
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hski-003.png" style="width:200px;"/>
+
+### 早熟の天才: 花海 咲季でSPレッスンを700回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hski-004.png" style="width:200px;"/>
 
@@ -953,6 +1993,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hski-007.png" style="width:200px;"/>
+
+### 妹への挑戦: 花海 咲季のプロデュースを10回完了
+* Rewards
+	* Exp × 400
+	* サポート強化Pt × 600
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hski-007.png" style="width:200px;"/>
+
+### 妹への挑戦: 花海 咲季のプロデュースを50回完了
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hski-007.png" style="width:200px;"/>
+
+### 妹への挑戦: 花海 咲季のプロデュースを100回完了
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hski-008.png" style="width:200px;"/>
 
 ### 限界はまだ: 花海 咲季の特訓段階を1にする
@@ -960,6 +2024,30 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hski-008.png" style="width:200px;"/>
+
+### 限界はまだ: 花海 咲季の特訓段階を3にする
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hski-008.png" style="width:200px;"/>
+
+### 限界はまだ: 花海 咲季の特訓段階を5にする
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hski-008.png" style="width:200px;"/>
+
+### 限界はまだ: 花海 咲季の特訓段階を6にする
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hski-016.png" style="width:200px;"/>
 
@@ -969,6 +2057,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hski-016.png" style="width:200px;"/>
+
+### 合格は当たり前: 花海 咲季のプロデュースで最終試験に40回合格
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hski-016.png" style="width:200px;"/>
+
+### 合格は当たり前: 花海 咲季のプロデュースで最終試験に100回合格
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_hski-016.png" style="width:200px;"/>
+
+### 合格は当たり前: 花海 咲季のプロデュースで最終試験に200回合格
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hski-009.png" style="width:200px;"/>
 
 ### 小さなお姉ちゃん: 花海 咲季のファンを70000人獲得
@@ -976,6 +2088,30 @@
 	* Exp × 400
 	* サポート強化Pt × 600
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hski-009.png" style="width:200px;"/>
+
+### 小さなお姉ちゃん: 花海 咲季のファンを300000人獲得
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hski-009.png" style="width:200px;"/>
+
+### 小さなお姉ちゃん: 花海 咲季のファンを600000人獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hski-009.png" style="width:200px;"/>
+
+### 小さなお姉ちゃん: 花海 咲季のファンを1000000人獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hski-010.png" style="width:200px;"/>
 
@@ -993,6 +2129,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hski-014.png" style="width:200px;"/>
+
+### トップまで止まらない: 花海 咲季でプロデュース評価を合計500000獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hski-014.png" style="width:200px;"/>
+
+### トップまで止まらない: 花海 咲季でプロデュース評価を合計1000000獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_hski-014.png" style="width:200px;"/>
+
+### トップまで止まらない: 花海 咲季でプロデュース評価を合計2000000獲得
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hski-015.png" style="width:200px;"/>
 
 ### 無限の向上心: 花海 咲季のプロデュースでスキルカードを20回強化
@@ -1000,6 +2160,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hski-015.png" style="width:200px;"/>
+
+### 無限の向上心: 花海 咲季のプロデュースでスキルカードを250回強化
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hski-015.png" style="width:200px;"/>
+
+### 無限の向上心: 花海 咲季のプロデュースでスキルカードを500回強化
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_hski-015.png" style="width:200px;"/>
+
+### 無限の向上心: 花海 咲季のプロデュースでスキルカードを1000回強化
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hski-012.png" style="width:200px;"/>
 
@@ -1025,6 +2209,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hume-001.png" style="width:200px;"/>
+
+### 姉への挑戦: 花海 佑芽のプロデュースでスキルカードを1500回使用
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hume-001.png" style="width:200px;"/>
+
+### 姉への挑戦: 花海 佑芽のプロデュースでスキルカードを6000回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hume-001.png" style="width:200px;"/>
+
+### 姉への挑戦: 花海 佑芽のプロデュースでスキルカードを20000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hume-002.png" style="width:200px;"/>
 
 ### 地道なトレーニング: 花海 佑芽でレッスンを10回クリア
@@ -1033,6 +2241,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hume-002.png" style="width:200px;"/>
+
+### 地道なトレーニング: 花海 佑芽でレッスンを100回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hume-002.png" style="width:200px;"/>
+
+### 地道なトレーニング: 花海 佑芽でレッスンを300回クリア
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hume-002.png" style="width:200px;"/>
+
+### 地道なトレーニング: 花海 佑芽でレッスンを1200回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hume-003.png" style="width:200px;"/>
 
 ### 無限の体力: 花海 佑芽でSPレッスンを15回クリア
@@ -1040,6 +2272,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hume-003.png" style="width:200px;"/>
+
+### 無限の体力: 花海 佑芽でSPレッスンを50回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hume-003.png" style="width:200px;"/>
+
+### 無限の体力: 花海 佑芽でSPレッスンを200回クリア
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hume-003.png" style="width:200px;"/>
+
+### 無限の体力: 花海 佑芽でSPレッスンを700回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hume-004.png" style="width:200px;"/>
 
@@ -1073,6 +2329,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hume-007.png" style="width:200px;"/>
+
+### 考える前に動け: 花海 佑芽のプロデュースを10回完了
+* Rewards
+	* Exp × 400
+	* サポート強化Pt × 600
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hume-007.png" style="width:200px;"/>
+
+### 考える前に動け: 花海 佑芽のプロデュースを50回完了
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hume-007.png" style="width:200px;"/>
+
+### 考える前に動け: 花海 佑芽のプロデュースを100回完了
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hume-008.png" style="width:200px;"/>
 
 ### 加速度的成長: 花海 佑芽の特訓段階を1にする
@@ -1080,6 +2360,30 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hume-008.png" style="width:200px;"/>
+
+### 加速度的成長: 花海 佑芽の特訓段階を3にする
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hume-008.png" style="width:200px;"/>
+
+### 加速度的成長: 花海 佑芽の特訓段階を5にする
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hume-008.png" style="width:200px;"/>
+
+### 加速度的成長: 花海 佑芽の特訓段階を6にする
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hume-016.png" style="width:200px;"/>
 
@@ -1089,6 +2393,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hume-016.png" style="width:200px;"/>
+
+### 輝く原石: 花海 佑芽のプロデュースで最終試験に40回合格
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hume-016.png" style="width:200px;"/>
+
+### 輝く原石: 花海 佑芽のプロデュースで最終試験に100回合格
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_hume-016.png" style="width:200px;"/>
+
+### 輝く原石: 花海 佑芽のプロデュースで最終試験に200回合格
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hume-009.png" style="width:200px;"/>
 
 ### 王道アイドル: 花海 佑芽のファンを70000人獲得
@@ -1096,6 +2424,30 @@
 	* Exp × 400
 	* サポート強化Pt × 600
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hume-009.png" style="width:200px;"/>
+
+### 王道アイドル: 花海 佑芽のファンを300000人獲得
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hume-009.png" style="width:200px;"/>
+
+### 王道アイドル: 花海 佑芽のファンを600000人獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hume-009.png" style="width:200px;"/>
+
+### 王道アイドル: 花海 佑芽のファンを1000000人獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hume-010.png" style="width:200px;"/>
 
@@ -1113,6 +2465,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_hume-014.png" style="width:200px;"/>
+
+### たくさんほしいです！: 花海 佑芽でPドリンクを300回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hume-014.png" style="width:200px;"/>
+
+### たくさんほしいです！: 花海 佑芽でPドリンクを500回使用
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_hume-014.png" style="width:200px;"/>
+
+### たくさんほしいです！: 花海 佑芽でPドリンクを1000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hume-015.png" style="width:200px;"/>
 
 ### 溢れ出る元気: 花海 佑芽のプロデュースで元気を合計1000獲得
@@ -1120,6 +2496,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_hume-015.png" style="width:200px;"/>
+
+### 溢れ出る元気: 花海 佑芽のプロデュースで元気を合計15000獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_hume-015.png" style="width:200px;"/>
+
+### 溢れ出る元気: 花海 佑芽のプロデュースで元気を合計30000獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_hume-015.png" style="width:200px;"/>
+
+### 溢れ出る元気: 花海 佑芽のプロデュースで元気を合計50000獲得
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hume-012.png" style="width:200px;"/>
 
@@ -1145,6 +2545,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_kcna-001.png" style="width:200px;"/>
+
+### 練習、練習、また練習: 倉本 千奈のプロデュースでスキルカードを1500回使用
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kcna-001.png" style="width:200px;"/>
+
+### 練習、練習、また練習: 倉本 千奈のプロデュースでスキルカードを6000回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kcna-001.png" style="width:200px;"/>
+
+### 練習、練習、また練習: 倉本 千奈のプロデュースでスキルカードを20000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kcna-002.png" style="width:200px;"/>
 
 ### スタートライン: 倉本 千奈でレッスンを10回クリア
@@ -1153,6 +2577,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_kcna-002.png" style="width:200px;"/>
+
+### スタートライン: 倉本 千奈でレッスンを100回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kcna-002.png" style="width:200px;"/>
+
+### スタートライン: 倉本 千奈でレッスンを300回クリア
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kcna-002.png" style="width:200px;"/>
+
+### スタートライン: 倉本 千奈でレッスンを1200回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kcna-003.png" style="width:200px;"/>
 
 ### 元気一点突破: 倉本 千奈でSPレッスンを15回クリア
@@ -1160,6 +2608,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kcna-003.png" style="width:200px;"/>
+
+### 元気一点突破: 倉本 千奈でSPレッスンを50回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kcna-003.png" style="width:200px;"/>
+
+### 元気一点突破: 倉本 千奈でSPレッスンを200回クリア
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kcna-003.png" style="width:200px;"/>
+
+### 元気一点突破: 倉本 千奈でSPレッスンを700回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_kcna-004.png" style="width:200px;"/>
 
@@ -1193,6 +2665,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_kcna-007.png" style="width:200px;"/>
+
+### 落ちこぼれからの挑戦: 倉本 千奈のプロデュースを10回完了
+* Rewards
+	* Exp × 400
+	* サポート強化Pt × 600
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kcna-007.png" style="width:200px;"/>
+
+### 落ちこぼれからの挑戦: 倉本 千奈のプロデュースを50回完了
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kcna-007.png" style="width:200px;"/>
+
+### 落ちこぼれからの挑戦: 倉本 千奈のプロデュースを100回完了
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kcna-008.png" style="width:200px;"/>
 
 ### 一歩一歩成長中！: 倉本 千奈の特訓段階を1にする
@@ -1200,6 +2696,30 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kcna-008.png" style="width:200px;"/>
+
+### 一歩一歩成長中！: 倉本 千奈の特訓段階を3にする
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kcna-008.png" style="width:200px;"/>
+
+### 一歩一歩成長中！: 倉本 千奈の特訓段階を5にする
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kcna-008.png" style="width:200px;"/>
+
+### 一歩一歩成長中！: 倉本 千奈の特訓段階を6にする
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_kcna-016.png" style="width:200px;"/>
 
@@ -1209,6 +2729,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_kcna-016.png" style="width:200px;"/>
+
+### 落ちこぼれとは言わせない: 倉本 千奈のプロデュースで最終試験に40回合格
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kcna-016.png" style="width:200px;"/>
+
+### 落ちこぼれとは言わせない: 倉本 千奈のプロデュースで最終試験に100回合格
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_kcna-016.png" style="width:200px;"/>
+
+### 落ちこぼれとは言わせない: 倉本 千奈のプロデュースで最終試験に200回合格
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kcna-009.png" style="width:200px;"/>
 
 ### 愛されアイドル: 倉本 千奈のファンを70000人獲得
@@ -1216,6 +2760,30 @@
 	* Exp × 400
 	* サポート強化Pt × 600
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kcna-009.png" style="width:200px;"/>
+
+### 愛されアイドル: 倉本 千奈のファンを300000人獲得
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kcna-009.png" style="width:200px;"/>
+
+### 愛されアイドル: 倉本 千奈のファンを600000人獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kcna-009.png" style="width:200px;"/>
+
+### 愛されアイドル: 倉本 千奈のファンを1000000人獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_kcna-010.png" style="width:200px;"/>
 
@@ -1233,6 +2801,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_kcna-014.png" style="width:200px;"/>
+
+### 天真爛漫: 倉本 千奈のプロデュースで元気を合計15000獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kcna-014.png" style="width:200px;"/>
+
+### 天真爛漫: 倉本 千奈のプロデュースで元気を合計30000獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_kcna-014.png" style="width:200px;"/>
+
+### 天真爛漫: 倉本 千奈のプロデュースで元気を合計50000獲得
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kcna-015.png" style="width:200px;"/>
 
 ### 財力: 倉本 千奈のプロデュースの相談で15回交換
@@ -1240,6 +2832,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kcna-015.png" style="width:200px;"/>
+
+### 財力: 倉本 千奈のプロデュースの相談で250回交換
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kcna-015.png" style="width:200px;"/>
+
+### 財力: 倉本 千奈のプロデュースの相談で500回交換
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_kcna-015.png" style="width:200px;"/>
+
+### 財力: 倉本 千奈のプロデュースの相談で1000回交換
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_kcna-012.png" style="width:200px;"/>
 
@@ -1265,6 +2881,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_kllj-001.png" style="width:200px;"/>
+
+### 笑顔の練習: 葛城 リーリヤのプロデュースでスキルカードを1500回使用
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kllj-001.png" style="width:200px;"/>
+
+### 笑顔の練習: 葛城 リーリヤのプロデュースでスキルカードを6000回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kllj-001.png" style="width:200px;"/>
+
+### 笑顔の練習: 葛城 リーリヤのプロデュースでスキルカードを20000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kllj-002.png" style="width:200px;"/>
 
 ### 基本の『き』から: 葛城 リーリヤでレッスンを10回クリア
@@ -1273,6 +2913,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_kllj-002.png" style="width:200px;"/>
+
+### 基本の『き』から: 葛城 リーリヤでレッスンを100回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kllj-002.png" style="width:200px;"/>
+
+### 基本の『き』から: 葛城 リーリヤでレッスンを300回クリア
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kllj-002.png" style="width:200px;"/>
+
+### 基本の『き』から: 葛城 リーリヤでレッスンを1200回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kllj-003.png" style="width:200px;"/>
 
 ### ビシバシやります: 葛城 リーリヤでSPレッスンを15回クリア
@@ -1280,6 +2944,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kllj-003.png" style="width:200px;"/>
+
+### ビシバシやります: 葛城 リーリヤでSPレッスンを50回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kllj-003.png" style="width:200px;"/>
+
+### ビシバシやります: 葛城 リーリヤでSPレッスンを200回クリア
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kllj-003.png" style="width:200px;"/>
+
+### ビシバシやります: 葛城 リーリヤでSPレッスンを700回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_kllj-004.png" style="width:200px;"/>
 
@@ -1313,6 +3001,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_kllj-007.png" style="width:200px;"/>
+
+### 勇気を出して: 葛城 リーリヤのプロデュースを10回完了
+* Rewards
+	* Exp × 400
+	* サポート強化Pt × 600
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kllj-007.png" style="width:200px;"/>
+
+### 勇気を出して: 葛城 リーリヤのプロデュースを50回完了
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kllj-007.png" style="width:200px;"/>
+
+### 勇気を出して: 葛城 リーリヤのプロデュースを100回完了
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kllj-008.png" style="width:200px;"/>
 
 ### 歩くような速さだとしても: 葛城 リーリヤの特訓段階を1にする
@@ -1320,6 +3032,30 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kllj-008.png" style="width:200px;"/>
+
+### 歩くような速さだとしても: 葛城 リーリヤの特訓段階を3にする
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kllj-008.png" style="width:200px;"/>
+
+### 歩くような速さだとしても: 葛城 リーリヤの特訓段階を5にする
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kllj-008.png" style="width:200px;"/>
+
+### 歩くような速さだとしても: 葛城 リーリヤの特訓段階を6にする
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_kllj-016.png" style="width:200px;"/>
 
@@ -1329,6 +3065,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_kllj-016.png" style="width:200px;"/>
+
+### 走り続けたその先: 葛城 リーリヤのプロデュースで最終試験に40回合格
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kllj-016.png" style="width:200px;"/>
+
+### 走り続けたその先: 葛城 リーリヤのプロデュースで最終試験に100回合格
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_kllj-016.png" style="width:200px;"/>
+
+### 走り続けたその先: 葛城 リーリヤのプロデュースで最終試験に200回合格
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kllj-009.png" style="width:200px;"/>
 
 ### 真っ直ぐな眼差し: 葛城 リーリヤのファンを70000人獲得
@@ -1336,6 +3096,30 @@
 	* Exp × 400
 	* サポート強化Pt × 600
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kllj-009.png" style="width:200px;"/>
+
+### 真っ直ぐな眼差し: 葛城 リーリヤのファンを300000人獲得
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kllj-009.png" style="width:200px;"/>
+
+### 真っ直ぐな眼差し: 葛城 リーリヤのファンを600000人獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kllj-009.png" style="width:200px;"/>
+
+### 真っ直ぐな眼差し: 葛城 リーリヤのファンを1000000人獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_kllj-010.png" style="width:200px;"/>
 
@@ -1353,6 +3137,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_kllj-014.png" style="width:200px;"/>
+
+### 大きく声を出して: 葛城 リーリヤのプロデュースで元気を合計15000獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kllj-014.png" style="width:200px;"/>
+
+### 大きく声を出して: 葛城 リーリヤのプロデュースで元気を合計30000獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_kllj-014.png" style="width:200px;"/>
+
+### 大きく声を出して: 葛城 リーリヤのプロデュースで元気を合計50000獲得
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kllj-015.png" style="width:200px;"/>
 
 ### 踏み出す勇気: 葛城 リーリヤのプロデュースでスキルカードを20回強化
@@ -1360,6 +3168,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_kllj-015.png" style="width:200px;"/>
+
+### 踏み出す勇気: 葛城 リーリヤのプロデュースでスキルカードを250回強化
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_kllj-015.png" style="width:200px;"/>
+
+### 踏み出す勇気: 葛城 リーリヤのプロデュースでスキルカードを500回強化
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_kllj-015.png" style="width:200px;"/>
+
+### 踏み出す勇気: 葛城 リーリヤのプロデュースでスキルカードを1000回強化
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_kllj-012.png" style="width:200px;"/>
 
@@ -1385,6 +3217,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_shro-001.png" style="width:200px;"/>
+
+### 課題達成: 篠澤 広のプロデュースでスキルカードを1500回使用
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_shro-001.png" style="width:200px;"/>
+
+### 課題達成: 篠澤 広のプロデュースでスキルカードを6000回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_shro-001.png" style="width:200px;"/>
+
+### 課題達成: 篠澤 広のプロデュースでスキルカードを20000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_shro-002.png" style="width:200px;"/>
 
 ### 倒れなかった回数: 篠澤 広でレッスンを10回クリア
@@ -1393,6 +3249,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_shro-002.png" style="width:200px;"/>
+
+### 倒れなかった回数: 篠澤 広でレッスンを100回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_shro-002.png" style="width:200px;"/>
+
+### 倒れなかった回数: 篠澤 広でレッスンを300回クリア
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_shro-002.png" style="width:200px;"/>
+
+### 倒れなかった回数: 篠澤 広でレッスンを1200回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_shro-003.png" style="width:200px;"/>
 
 ### 辛いほどいい: 篠澤 広でSPレッスンを15回クリア
@@ -1400,6 +3280,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_shro-003.png" style="width:200px;"/>
+
+### 辛いほどいい: 篠澤 広でSPレッスンを50回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_shro-003.png" style="width:200px;"/>
+
+### 辛いほどいい: 篠澤 広でSPレッスンを200回クリア
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_shro-003.png" style="width:200px;"/>
+
+### 辛いほどいい: 篠澤 広でSPレッスンを700回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_shro-004.png" style="width:200px;"/>
 
@@ -1433,6 +3337,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_shro-007.png" style="width:200px;"/>
+
+### 茨の道: 篠澤 広のプロデュースを10回完了
+* Rewards
+	* Exp × 400
+	* サポート強化Pt × 600
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_shro-007.png" style="width:200px;"/>
+
+### 茨の道: 篠澤 広のプロデュースを50回完了
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_shro-007.png" style="width:200px;"/>
+
+### 茨の道: 篠澤 広のプロデュースを100回完了
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_shro-008.png" style="width:200px;"/>
 
 ### 次の課題はなに？: 篠澤 広の特訓段階を1にする
@@ -1440,6 +3368,30 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_shro-008.png" style="width:200px;"/>
+
+### 次の課題はなに？: 篠澤 広の特訓段階を3にする
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_shro-008.png" style="width:200px;"/>
+
+### 次の課題はなに？: 篠澤 広の特訓段階を5にする
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_shro-008.png" style="width:200px;"/>
+
+### 次の課題はなに？: 篠澤 広の特訓段階を6にする
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_shro-016.png" style="width:200px;"/>
 
@@ -1449,6 +3401,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_shro-016.png" style="width:200px;"/>
+
+### あたってくだけろ: 篠澤 広のプロデュースで最終試験に40回合格
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_shro-016.png" style="width:200px;"/>
+
+### あたってくだけろ: 篠澤 広のプロデュースで最終試験に100回合格
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_shro-016.png" style="width:200px;"/>
+
+### あたってくだけろ: 篠澤 広のプロデュースで最終試験に200回合格
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_shro-009.png" style="width:200px;"/>
 
 ### 放っておけない: 篠澤 広のファンを70000人獲得
@@ -1456,6 +3432,30 @@
 	* Exp × 400
 	* サポート強化Pt × 600
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_shro-009.png" style="width:200px;"/>
+
+### 放っておけない: 篠澤 広のファンを300000人獲得
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_shro-009.png" style="width:200px;"/>
+
+### 放っておけない: 篠澤 広のファンを600000人獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_shro-009.png" style="width:200px;"/>
+
+### 放っておけない: 篠澤 広のファンを1000000人獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_shro-010.png" style="width:200px;"/>
 
@@ -1473,6 +3473,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_shro-014.png" style="width:200px;"/>
+
+### 才能なしでもやれること: 篠澤 広でプロデュース評価を合計500000獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_shro-014.png" style="width:200px;"/>
+
+### 才能なしでもやれること: 篠澤 広でプロデュース評価を合計1000000獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_shro-014.png" style="width:200px;"/>
+
+### 才能なしでもやれること: 篠澤 広でプロデュース評価を合計2000000獲得
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_shro-015.png" style="width:200px;"/>
 
 ### 苦難こそ喜び: 篠澤 広のプロデュースで元気を合計1000獲得
@@ -1480,6 +3504,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_shro-015.png" style="width:200px;"/>
+
+### 苦難こそ喜び: 篠澤 広のプロデュースで元気を合計15000獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_shro-015.png" style="width:200px;"/>
+
+### 苦難こそ喜び: 篠澤 広のプロデュースで元気を合計30000獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_shro-015.png" style="width:200px;"/>
+
+### 苦難こそ喜び: 篠澤 広のプロデュースで元気を合計50000獲得
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_shro-012.png" style="width:200px;"/>
 
@@ -1505,6 +3553,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_ssmk-001.png" style="width:200px;"/>
+
+### まずは遊びから: 紫雲 清夏のプロデュースでスキルカードを1500回使用
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ssmk-001.png" style="width:200px;"/>
+
+### まずは遊びから: 紫雲 清夏のプロデュースでスキルカードを6000回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ssmk-001.png" style="width:200px;"/>
+
+### まずは遊びから: 紫雲 清夏のプロデュースでスキルカードを20000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ssmk-002.png" style="width:200px;"/>
 
 ### センスは抜群: 紫雲 清夏でレッスンを10回クリア
@@ -1513,6 +3585,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_ssmk-002.png" style="width:200px;"/>
+
+### センスは抜群: 紫雲 清夏でレッスンを100回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ssmk-002.png" style="width:200px;"/>
+
+### センスは抜群: 紫雲 清夏でレッスンを300回クリア
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ssmk-002.png" style="width:200px;"/>
+
+### センスは抜群: 紫雲 清夏でレッスンを1200回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ssmk-003.png" style="width:200px;"/>
 
 ### 前を向いて: 紫雲 清夏でSPレッスンを15回クリア
@@ -1520,6 +3616,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ssmk-003.png" style="width:200px;"/>
+
+### 前を向いて: 紫雲 清夏でSPレッスンを50回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ssmk-003.png" style="width:200px;"/>
+
+### 前を向いて: 紫雲 清夏でSPレッスンを200回クリア
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ssmk-003.png" style="width:200px;"/>
+
+### 前を向いて: 紫雲 清夏でSPレッスンを700回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_ssmk-004.png" style="width:200px;"/>
 
@@ -1553,6 +3673,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_ssmk-007.png" style="width:200px;"/>
+
+### 諦められない: 紫雲 清夏のプロデュースを10回完了
+* Rewards
+	* Exp × 400
+	* サポート強化Pt × 600
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ssmk-007.png" style="width:200px;"/>
+
+### 諦められない: 紫雲 清夏のプロデュースを50回完了
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ssmk-007.png" style="width:200px;"/>
+
+### 諦められない: 紫雲 清夏のプロデュースを100回完了
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ssmk-008.png" style="width:200px;"/>
 
 ### 明けない夜を終わらせて: 紫雲 清夏の特訓段階を1にする
@@ -1560,6 +3704,30 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ssmk-008.png" style="width:200px;"/>
+
+### 明けない夜を終わらせて: 紫雲 清夏の特訓段階を3にする
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ssmk-008.png" style="width:200px;"/>
+
+### 明けない夜を終わらせて: 紫雲 清夏の特訓段階を5にする
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ssmk-008.png" style="width:200px;"/>
+
+### 明けない夜を終わらせて: 紫雲 清夏の特訓段階を6にする
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_ssmk-016.png" style="width:200px;"/>
 
@@ -1569,6 +3737,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_ssmk-016.png" style="width:200px;"/>
+
+### 本気を出せば: 紫雲 清夏のプロデュースで最終試験に40回合格
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ssmk-016.png" style="width:200px;"/>
+
+### 本気を出せば: 紫雲 清夏のプロデュースで最終試験に100回合格
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_ssmk-016.png" style="width:200px;"/>
+
+### 本気を出せば: 紫雲 清夏のプロデュースで最終試験に200回合格
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ssmk-009.png" style="width:200px;"/>
 
 ### トモダチ: 紫雲 清夏のファンを70000人獲得
@@ -1576,6 +3768,30 @@
 	* Exp × 400
 	* サポート強化Pt × 600
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ssmk-009.png" style="width:200px;"/>
+
+### トモダチ: 紫雲 清夏のファンを300000人獲得
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ssmk-009.png" style="width:200px;"/>
+
+### トモダチ: 紫雲 清夏のファンを600000人獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ssmk-009.png" style="width:200px;"/>
+
+### トモダチ: 紫雲 清夏のファンを1000000人獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_ssmk-010.png" style="width:200px;"/>
 
@@ -1593,6 +3809,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_ssmk-014.png" style="width:200px;"/>
+
+### 流行りはバッチリ: 紫雲 清夏でPドリンクを300回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ssmk-014.png" style="width:200px;"/>
+
+### 流行りはバッチリ: 紫雲 清夏でPドリンクを500回使用
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_ssmk-014.png" style="width:200px;"/>
+
+### 流行りはバッチリ: 紫雲 清夏でPドリンクを1000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ssmk-015.png" style="width:200px;"/>
 
 ### 調子いいかも♪: 紫雲 清夏のプロデュースで体力を合計500消費
@@ -1600,6 +3840,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ssmk-015.png" style="width:200px;"/>
+
+### 調子いいかも♪: 紫雲 清夏のプロデュースで体力を合計15000消費
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ssmk-015.png" style="width:200px;"/>
+
+### 調子いいかも♪: 紫雲 清夏のプロデュースで体力を合計30000消費
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_ssmk-015.png" style="width:200px;"/>
+
+### 調子いいかも♪: 紫雲 清夏のプロデュースで体力を合計45000消費
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_ssmk-012.png" style="width:200px;"/>
 
@@ -1625,6 +3889,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_ttmr-001.png" style="width:200px;"/>
+
+### 体質改善: 月村 手毬のプロデュースでスキルカードを1500回使用
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ttmr-001.png" style="width:200px;"/>
+
+### 体質改善: 月村 手毬のプロデュースでスキルカードを6000回使用
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ttmr-001.png" style="width:200px;"/>
+
+### 体質改善: 月村 手毬のプロデュースでスキルカードを20000回使用
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ttmr-002.png" style="width:200px;"/>
 
 ### ストイック: 月村 手毬でレッスンを10回クリア
@@ -1633,6 +3921,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_ttmr-002.png" style="width:200px;"/>
+
+### ストイック: 月村 手毬でレッスンを100回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ttmr-002.png" style="width:200px;"/>
+
+### ストイック: 月村 手毬でレッスンを300回クリア
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ttmr-002.png" style="width:200px;"/>
+
+### ストイック: 月村 手毬でレッスンを1200回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ttmr-003.png" style="width:200px;"/>
 
 ### ワンマンシンガー: 月村 手毬でSPレッスンを15回クリア
@@ -1640,6 +3952,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ttmr-003.png" style="width:200px;"/>
+
+### ワンマンシンガー: 月村 手毬でSPレッスンを50回クリア
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ttmr-003.png" style="width:200px;"/>
+
+### ワンマンシンガー: 月村 手毬でSPレッスンを200回クリア
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ttmr-003.png" style="width:200px;"/>
+
+### ワンマンシンガー: 月村 手毬でSPレッスンを700回クリア
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_ttmr-004.png" style="width:200px;"/>
 
@@ -1673,6 +4009,30 @@
 	* サポート強化Pt × 400
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_ttmr-007.png" style="width:200px;"/>
+
+### 意地とプライド: 月村 手毬のプロデュースを10回完了
+* Rewards
+	* Exp × 400
+	* サポート強化Pt × 600
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ttmr-007.png" style="width:200px;"/>
+
+### 意地とプライド: 月村 手毬のプロデュースを50回完了
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ttmr-007.png" style="width:200px;"/>
+
+### 意地とプライド: 月村 手毬のプロデュースを100回完了
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ttmr-008.png" style="width:200px;"/>
 
 ### どこまでも高く: 月村 手毬の特訓段階を1にする
@@ -1680,6 +4040,30 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ttmr-008.png" style="width:200px;"/>
+
+### どこまでも高く: 月村 手毬の特訓段階を3にする
+* Rewards
+	* Exp × 700
+	* サポート強化Pt × 700
+	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ttmr-008.png" style="width:200px;"/>
+
+### どこまでも高く: 月村 手毬の特訓段階を5にする
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ttmr-008.png" style="width:200px;"/>
+
+### どこまでも高く: 月村 手毬の特訓段階を6にする
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_ttmr-016.png" style="width:200px;"/>
 
@@ -1689,6 +4073,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_ttmr-016.png" style="width:200px;"/>
+
+### 当然です: 月村 手毬のプロデュースで最終試験に40回合格
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ttmr-016.png" style="width:200px;"/>
+
+### 当然です: 月村 手毬のプロデュースで最終試験に100回合格
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_ttmr-016.png" style="width:200px;"/>
+
+### 当然です: 月村 手毬のプロデュースで最終試験に200回合格
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ttmr-009.png" style="width:200px;"/>
 
 ### 孤高の負けず嫌い: 月村 手毬のファンを70000人獲得
@@ -1696,6 +4104,30 @@
 	* Exp × 400
 	* サポート強化Pt × 600
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ttmr-009.png" style="width:200px;"/>
+
+### 孤高の負けず嫌い: 月村 手毬のファンを300000人獲得
+* Rewards
+	* Exp × 1000
+	* サポート強化Pt × 800
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ttmr-009.png" style="width:200px;"/>
+
+### 孤高の負けず嫌い: 月村 手毬のファンを600000人獲得
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ttmr-009.png" style="width:200px;"/>
+
+### 孤高の負けず嫌い: 月村 手毬のファンを1000000人獲得
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_ttmr-010.png" style="width:200px;"/>
 
@@ -1713,6 +4145,30 @@
 	* サポート強化Pt × 500
 	* Jewel × 20
 
+<img src="img/img_general_achievement_char_ttmr-014.png" style="width:200px;"/>
+
+### 全身全霊: 月村 手毬のプロデュースでスキルカードを250回強化
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ttmr-014.png" style="width:200px;"/>
+
+### 全身全霊: 月村 手毬のプロデュースでスキルカードを500回強化
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_ttmr-014.png" style="width:200px;"/>
+
+### 全身全霊: 月村 手毬のプロデュースでスキルカードを1000回強化
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ttmr-015.png" style="width:200px;"/>
 
 ### 妥協はナシ: 月村 手毬のプロデュースの相談で15回交換
@@ -1720,6 +4176,30 @@
 	* Exp × 300
 	* サポート強化Pt × 500
 	* Jewel × 20
+
+<img src="img/img_general_achievement_char_ttmr-015.png" style="width:200px;"/>
+
+### 妥協はナシ: 月村 手毬のプロデュースの相談で250回交換
+* Rewards
+	* Exp × 1300
+	* サポート強化Pt × 900
+	* Jewel × 30
+
+<img src="img/img_general_achievement_char_ttmr-015.png" style="width:200px;"/>
+
+### 妥協はナシ: 月村 手毬のプロデュースの相談で500回交換
+* Rewards
+	* Exp × 1600
+	* サポート強化Pt × 1000
+	* Jewel × 50
+
+<img src="img/img_general_achievement_char_ttmr-015.png" style="width:200px;"/>
+
+### 妥協はナシ: 月村 手毬のプロデュースの相談で1000回交換
+* Rewards
+	* Exp × 2000
+	* サポート強化Pt × 1300
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
 
@@ -1738,6 +4218,38 @@
 	* Jewel × 50
 	* サポート強化Pt × 200
 
+<img src="img/img_general_achievement_produce_001.png" style="width:200px;"/>
+
+### 縁の下の力持ち: Pポイントを合計15000獲得
+* Rewards
+	* Exp × 300
+	* Jewel × 50
+	* サポート強化Pt × 300
+
+<img src="img/img_general_achievement_produce_001.png" style="width:200px;"/>
+
+### 縁の下の力持ち: Pポイントを合計100000獲得
+* Rewards
+	* Exp × 1250
+	* Jewel × 50
+	* サポート強化Pt × 900
+
+<img src="img/img_general_achievement_produce_001.png" style="width:200px;"/>
+
+### 縁の下の力持ち: Pポイントを合計200000獲得
+* Rewards
+	* Exp × 2950
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_001.png" style="width:200px;"/>
+
+### 縁の下の力持ち: Pポイントを合計500000獲得
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
+
 <img src="img/img_general_achievement_produce_002.png" style="width:200px;"/>
 
 ### 思い出いっぱい: アチーブメントを70個獲得
@@ -1745,6 +4257,22 @@
 	* Exp × 400
 	* Jewel × 50
 	* サポート強化Pt × 500
+
+<img src="img/img_general_achievement_produce_002.png" style="width:200px;"/>
+
+### 思い出いっぱい: アチーブメントを300個獲得
+* Rewards
+	* Exp × 3250
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_002.png" style="width:200px;"/>
+
+### 思い出いっぱい: アチーブメントを400個獲得
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
 
 <img src="img/img_general_achievement_produce_003.png" style="width:200px;"/>
 
@@ -1754,6 +4282,38 @@
 	* Jewel × 50
 	* サポート強化Pt × 200
 
+<img src="img/img_general_achievement_produce_003.png" style="width:200px;"/>
+
+### テクニシャン: スキルカードを合計400獲得
+* Rewards
+	* Exp × 300
+	* Jewel × 50
+	* サポート強化Pt × 300
+
+<img src="img/img_general_achievement_produce_003.png" style="width:200px;"/>
+
+### テクニシャン: スキルカードを合計2000獲得
+* Rewards
+	* Exp × 1250
+	* Jewel × 50
+	* サポート強化Pt × 900
+
+<img src="img/img_general_achievement_produce_003.png" style="width:200px;"/>
+
+### テクニシャン: スキルカードを合計4000獲得
+* Rewards
+	* Exp × 2950
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_003.png" style="width:200px;"/>
+
+### テクニシャン: スキルカードを合計12000獲得
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
+
 <img src="img/img_general_achievement_produce_004.png" style="width:200px;"/>
 
 ### サポート上手: Pアイテムを合計30獲得
@@ -1761,6 +4321,38 @@
 	* Exp × 150
 	* Jewel × 50
 	* サポート強化Pt × 200
+
+<img src="img/img_general_achievement_produce_004.png" style="width:200px;"/>
+
+### サポート上手: Pアイテムを合計100獲得
+* Rewards
+	* Exp × 300
+	* Jewel × 50
+	* サポート強化Pt × 300
+
+<img src="img/img_general_achievement_produce_004.png" style="width:200px;"/>
+
+### サポート上手: Pアイテムを合計600獲得
+* Rewards
+	* Exp × 3250
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_004.png" style="width:200px;"/>
+
+### サポート上手: Pアイテムを合計1500獲得
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
+
+<img src="img/img_general_achievement_produce_004.png" style="width:200px;"/>
+
+### サポート上手: Pアイテムを合計5000獲得
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
 
 <img src="img/img_general_achievement_produce_005.png" style="width:200px;"/>
 
@@ -1770,6 +4362,38 @@
 	* Jewel × 50
 	* サポート強化Pt × 200
 
+<img src="img/img_general_achievement_produce_005.png" style="width:200px;"/>
+
+### 水分補給！: Pドリンクを合計200獲得
+* Rewards
+	* Exp × 300
+	* Jewel × 50
+	* サポート強化Pt × 300
+
+<img src="img/img_general_achievement_produce_005.png" style="width:200px;"/>
+
+### 水分補給！: Pドリンクを合計1000獲得
+* Rewards
+	* Exp × 3250
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_005.png" style="width:200px;"/>
+
+### 水分補給！: Pドリンクを合計2500獲得
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
+
+<img src="img/img_general_achievement_produce_005.png" style="width:200px;"/>
+
+### 水分補給！: Pドリンクを合計10000獲得
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
+
 <img src="img/img_general_achievement_produce_006.png" style="width:200px;"/>
 
 ### 準備万端: スキルカードを100種類獲得
@@ -1778,6 +4402,14 @@
 	* Jewel × 50
 	* サポート強化Pt × 200
 
+<img src="img/img_general_achievement_produce_006.png" style="width:200px;"/>
+
+### 準備万端: スキルカードを200種類獲得
+* Rewards
+	* Exp × 1250
+	* Jewel × 50
+	* サポート強化Pt × 900
+
 <img src="img/img_general_achievement_produce_007.png" style="width:200px;"/>
 
 ### 創意工夫: Pアイテムを20種類獲得
@@ -1785,6 +4417,22 @@
 	* Exp × 400
 	* Jewel × 50
 	* サポート強化Pt × 500
+
+<img src="img/img_general_achievement_produce_007.png" style="width:200px;"/>
+
+### 創意工夫: Pアイテムを40種類獲得
+* Rewards
+	* Exp × 1250
+	* Jewel × 50
+	* サポート強化Pt × 900
+
+<img src="img/img_general_achievement_produce_007.png" style="width:200px;"/>
+
+### 創意工夫: Pアイテムを80種類獲得
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
 
 <img src="img/img_general_achievement_produce_008.png" style="width:200px;"/>
 
@@ -1802,6 +4450,38 @@
 	* Jewel × 50
 	* サポート強化Pt × 200
 
+<img src="img/img_general_achievement_produce_009.png" style="width:200px;"/>
+
+### ボーカルマスター: プロデュースでVoレッスンを100回選択
+* Rewards
+	* Exp × 400
+	* Jewel × 50
+	* サポート強化Pt × 500
+
+<img src="img/img_general_achievement_produce_009.png" style="width:200px;"/>
+
+### ボーカルマスター: プロデュースでVoレッスンを750回選択
+* Rewards
+	* Exp × 2950
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_009.png" style="width:200px;"/>
+
+### ボーカルマスター: プロデュースでVoレッスンを1500回選択
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
+
+<img src="img/img_general_achievement_produce_009.png" style="width:200px;"/>
+
+### ボーカルマスター: プロデュースでVoレッスンを4000回選択
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
+
 <img src="img/img_general_achievement_produce_010.png" style="width:200px;"/>
 
 ### ダンスマスター: プロデュースでDaレッスンを30回選択
@@ -1809,6 +4489,38 @@
 	* Exp × 150
 	* Jewel × 50
 	* サポート強化Pt × 200
+
+<img src="img/img_general_achievement_produce_010.png" style="width:200px;"/>
+
+### ダンスマスター: プロデュースでDaレッスンを100回選択
+* Rewards
+	* Exp × 400
+	* Jewel × 50
+	* サポート強化Pt × 500
+
+<img src="img/img_general_achievement_produce_010.png" style="width:200px;"/>
+
+### ダンスマスター: プロデュースでDaレッスンを750回選択
+* Rewards
+	* Exp × 2950
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_010.png" style="width:200px;"/>
+
+### ダンスマスター: プロデュースでDaレッスンを1500回選択
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
+
+<img src="img/img_general_achievement_produce_010.png" style="width:200px;"/>
+
+### ダンスマスター: プロデュースでDaレッスンを4000回選択
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
 
 <img src="img/img_general_achievement_produce_011.png" style="width:200px;"/>
 
@@ -1818,6 +4530,38 @@
 	* Jewel × 50
 	* サポート強化Pt × 200
 
+<img src="img/img_general_achievement_produce_011.png" style="width:200px;"/>
+
+### ビジュアルマスター: プロデュースでViレッスンを100回選択
+* Rewards
+	* Exp × 400
+	* Jewel × 50
+	* サポート強化Pt × 500
+
+<img src="img/img_general_achievement_produce_011.png" style="width:200px;"/>
+
+### ビジュアルマスター: プロデュースでViレッスンを750回選択
+* Rewards
+	* Exp × 2950
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_011.png" style="width:200px;"/>
+
+### ビジュアルマスター: プロデュースでViレッスンを1500回選択
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
+
+<img src="img/img_general_achievement_produce_011.png" style="width:200px;"/>
+
+### ビジュアルマスター: プロデュースでViレッスンを4000回選択
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
+
 <img src="img/img_general_achievement_produce_012.png" style="width:200px;"/>
 
 ### 備えあれば憂いなし: プロデュースで活動支給を40回選択
@@ -1825,6 +4569,38 @@
 	* Exp × 400
 	* Jewel × 50
 	* サポート強化Pt × 500
+
+<img src="img/img_general_achievement_produce_012.png" style="width:200px;"/>
+
+### 備えあれば憂いなし: プロデュースで活動支給を150回選択
+* Rewards
+	* Exp × 2950
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_012.png" style="width:200px;"/>
+
+### 備えあれば憂いなし: プロデュースで活動支給を300回選択
+* Rewards
+	* Exp × 3250
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_012.png" style="width:200px;"/>
+
+### 備えあれば憂いなし: プロデュースで活動支給を700回選択
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
+
+<img src="img/img_general_achievement_produce_012.png" style="width:200px;"/>
+
+### 備えあれば憂いなし: プロデュースで活動支給を1400回選択
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
 
 <img src="img/img_general_achievement_produce_013.png" style="width:200px;"/>
 
@@ -1834,6 +4610,38 @@
 	* Jewel × 50
 	* サポート強化Pt × 500
 
+<img src="img/img_general_achievement_produce_013.png" style="width:200px;"/>
+
+### 学園生活: プロデュースで授業/おでかけを200回選択
+* Rewards
+	* Exp × 2950
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_013.png" style="width:200px;"/>
+
+### 学園生活: プロデュースで授業/おでかけを500回選択
+* Rewards
+	* Exp × 3250
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_013.png" style="width:200px;"/>
+
+### 学園生活: プロデュースで授業/おでかけを1000回選択
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
+
+<img src="img/img_general_achievement_produce_013.png" style="width:200px;"/>
+
+### 学園生活: プロデュースで授業/おでかけを2000回選択
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
+
 <img src="img/img_general_achievement_produce_014.png" style="width:200px;"/>
 
 ### 指導上手: プロデュースでスキルカードを30回強化
@@ -1841,6 +4649,38 @@
 	* Exp × 150
 	* Jewel × 50
 	* サポート強化Pt × 200
+
+<img src="img/img_general_achievement_produce_014.png" style="width:200px;"/>
+
+### 指導上手: プロデュースでスキルカードを150回強化
+* Rewards
+	* Exp × 300
+	* Jewel × 50
+	* サポート強化Pt × 300
+
+<img src="img/img_general_achievement_produce_014.png" style="width:200px;"/>
+
+### 指導上手: プロデュースでスキルカードを400回強化
+* Rewards
+	* Exp × 1250
+	* Jewel × 50
+	* サポート強化Pt × 900
+
+<img src="img/img_general_achievement_produce_014.png" style="width:200px;"/>
+
+### 指導上手: プロデュースでスキルカードを800回強化
+* Rewards
+	* Exp × 3250
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_014.png" style="width:200px;"/>
+
+### 指導上手: プロデュースでスキルカードを2000回強化
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
 
 <img src="img/img_general_achievement_produce_015.png" style="width:200px;"/>
 
@@ -1850,6 +4690,38 @@
 	* Jewel × 50
 	* サポート強化Pt × 300
 
+<img src="img/img_general_achievement_produce_015.png" style="width:200px;"/>
+
+### 常連さん: 相談室で200回交換
+* Rewards
+	* Exp × 400
+	* Jewel × 50
+	* サポート強化Pt × 500
+
+<img src="img/img_general_achievement_produce_015.png" style="width:200px;"/>
+
+### 常連さん: 相談室で500回交換
+* Rewards
+	* Exp × 1250
+	* Jewel × 50
+	* サポート強化Pt × 900
+
+<img src="img/img_general_achievement_produce_015.png" style="width:200px;"/>
+
+### 常連さん: 相談室で2000回交換
+* Rewards
+	* Exp × 2950
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_015.png" style="width:200px;"/>
+
+### 常連さん: 相談室で5000回交換
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
+
 <img src="img/img_general_achievement_produce_016.png" style="width:200px;"/>
 
 ### 日々の鍛錬: レッスンを30回クリア
@@ -1857,6 +4729,38 @@
 	* Exp × 100
 	* Jewel × 50
 	* サポート強化Pt × 200
+
+<img src="img/img_general_achievement_produce_016.png" style="width:200px;"/>
+
+### 日々の鍛錬: レッスンを90回クリア
+* Rewards
+	* Exp × 300
+	* Jewel × 50
+	* サポート強化Pt × 300
+
+<img src="img/img_general_achievement_produce_016.png" style="width:200px;"/>
+
+### 日々の鍛錬: レッスンを300回クリア
+* Rewards
+	* Exp × 400
+	* Jewel × 50
+	* サポート強化Pt × 500
+
+<img src="img/img_general_achievement_produce_016.png" style="width:200px;"/>
+
+### 日々の鍛錬: レッスンを1000回クリア
+* Rewards
+	* Exp × 3250
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_016.png" style="width:200px;"/>
+
+### 日々の鍛錬: レッスンを4000回クリア
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
 
 <img src="img/img_general_achievement_produce_017.png" style="width:200px;"/>
 
@@ -1866,6 +4770,38 @@
 	* Jewel × 50
 	* サポート強化Pt × 300
 
+<img src="img/img_general_achievement_produce_017.png" style="width:200px;"/>
+
+### 気合を入れて: SPレッスンを100回クリア
+* Rewards
+	* Exp × 400
+	* Jewel × 50
+	* サポート強化Pt × 500
+
+<img src="img/img_general_achievement_produce_017.png" style="width:200px;"/>
+
+### 気合を入れて: SPレッスンを500回クリア
+* Rewards
+	* Exp × 2950
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_017.png" style="width:200px;"/>
+
+### 気合を入れて: SPレッスンを1000回クリア
+* Rewards
+	* Exp × 3250
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_017.png" style="width:200px;"/>
+
+### 気合を入れて: SPレッスンを3000回クリア
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
+
 <img src="img/img_general_achievement_produce_018.png" style="width:200px;"/>
 
 ### 熱血指導: プロデュースで体力を合計500消費
@@ -1873,6 +4809,38 @@
 	* Exp × 150
 	* Jewel × 50
 	* サポート強化Pt × 200
+
+<img src="img/img_general_achievement_produce_018.png" style="width:200px;"/>
+
+### 熱血指導: プロデュースで体力を合計1500消費
+* Rewards
+	* Exp × 300
+	* Jewel × 50
+	* サポート強化Pt × 300
+
+<img src="img/img_general_achievement_produce_018.png" style="width:200px;"/>
+
+### 熱血指導: プロデュースで体力を合計10000消費
+* Rewards
+	* Exp × 1250
+	* Jewel × 50
+	* サポート強化Pt × 900
+
+<img src="img/img_general_achievement_produce_018.png" style="width:200px;"/>
+
+### 熱血指導: プロデュースで体力を合計30000消費
+* Rewards
+	* Exp × 2950
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
+<img src="img/img_general_achievement_produce_018.png" style="width:200px;"/>
+
+### 熱血指導: プロデュースで体力を合計100000消費
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
 
 <img src="img/img_general_achievement_produce_019.png" style="width:200px;"/>
 
@@ -1914,6 +4882,14 @@
 	* Jewel × 50
 	* サポート強化Pt × 900
 
+<img src="img/img_general_achievement_produce_024.png" style="width:200px;"/>
+
+### つぼみから花へ: True Endを9人達成
+* Rewards
+	* Exp × 3250
+	* Jewel × 50
+	* サポート強化Pt × 1000
+
 <img src="img/img_general_achievement_produce_025.png" style="width:200px;"/>
 
 ### 積み重なる経験: プロデュースを3回完了
@@ -1921,6 +4897,38 @@
 	* Exp × 100
 	* Jewel × 50
 	* サポート強化Pt × 200
+
+<img src="img/img_general_achievement_produce_025.png" style="width:200px;"/>
+
+### 積み重なる経験: プロデュースを20回完了
+* Rewards
+	* Exp × 300
+	* Jewel × 50
+	* サポート強化Pt × 300
+
+<img src="img/img_general_achievement_produce_025.png" style="width:200px;"/>
+
+### 積み重なる経験: プロデュースを100回完了
+* Rewards
+	* Exp × 1250
+	* Jewel × 50
+	* サポート強化Pt × 900
+
+<img src="img/img_general_achievement_produce_025.png" style="width:200px;"/>
+
+### 積み重なる経験: プロデュースを500回完了
+* Rewards
+	* Exp × 3700
+	* Jewel × 100
+	* サポート強化Pt × 1100
+
+<img src="img/img_general_achievement_produce_025.png" style="width:200px;"/>
+
+### 積み重なる経験: プロデュースを1000回完了
+* Rewards
+	* Exp × 6000
+	* Jewel × 150
+	* サポート強化Pt × 2400
 
 ## Other
 <img src="img/img_general_achievement_common_001.png" style="width:200px;"/>
