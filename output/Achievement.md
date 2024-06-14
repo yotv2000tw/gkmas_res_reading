@@ -3,6 +3,9 @@
 * [Idol](#Idol)
 * [Produce](#Produce)
 * [Other](#Other)
+## Total
+* Exp × 704300
+* Jewel × 29050
 ## Idol
 <img src="img/img_general_achievement_fktn-3-001_001.png" style="width:200px;"/>
 
