@@ -1727,7 +1727,7 @@
    * Jewel × 30
 
 ## Produce
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_001.png" style="width:200px;"/>
 
 ### 縁の下の力持ち: Pポイントを合計2000獲得
 * Rewards
@@ -1735,7 +1735,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_002.png" style="width:200px;"/>
 
 ### 思い出いっぱい: アチーブメントを70個獲得
 * Rewards
@@ -1743,7 +1743,7 @@
    * Jewel × 50
    * サポート強化Pt × 500
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_003.png" style="width:200px;"/>
 
 ### テクニシャン: スキルカードを合計50獲得
 * Rewards
@@ -1751,7 +1751,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_004.png" style="width:200px;"/>
 
 ### サポート上手: Pアイテムを合計30獲得
 * Rewards
@@ -1759,7 +1759,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_005.png" style="width:200px;"/>
 
 ### 水分補給！: Pドリンクを合計50獲得
 * Rewards
@@ -1767,7 +1767,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_006.png" style="width:200px;"/>
 
 ### 準備万端: スキルカードを100種類獲得
 * Rewards
@@ -1775,7 +1775,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_007.png" style="width:200px;"/>
 
 ### 創意工夫: Pアイテムを20種類獲得
 * Rewards
@@ -1783,7 +1783,7 @@
    * Jewel × 50
    * サポート強化Pt × 500
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_008.png" style="width:200px;"/>
 
 ### ドリンクマニア: Pドリンクを10種類獲得
 * Rewards
@@ -1791,7 +1791,7 @@
    * Jewel × 50
    * サポート強化Pt × 500
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_009.png" style="width:200px;"/>
 
 ### ボーカルマスター: プロデュースでVoレッスンを30回選択
 * Rewards
@@ -1799,7 +1799,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_010.png" style="width:200px;"/>
 
 ### ダンスマスター: プロデュースでDaレッスンを30回選択
 * Rewards
@@ -1807,7 +1807,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_011.png" style="width:200px;"/>
 
 ### ビジュアルマスター: プロデュースでViレッスンを30回選択
 * Rewards
@@ -1815,7 +1815,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_012.png" style="width:200px;"/>
 
 ### 備えあれば憂いなし: プロデュースで活動支給を40回選択
 * Rewards
@@ -1823,7 +1823,7 @@
    * Jewel × 50
    * サポート強化Pt × 500
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_013.png" style="width:200px;"/>
 
 ### 学園生活: プロデュースで授業/おでかけを50回選択
 * Rewards
@@ -1831,7 +1831,7 @@
    * Jewel × 50
    * サポート強化Pt × 500
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_014.png" style="width:200px;"/>
 
 ### 指導上手: プロデュースでスキルカードを30回強化
 * Rewards
@@ -1839,7 +1839,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_015.png" style="width:200px;"/>
 
 ### 常連さん: 相談室で50回交換
 * Rewards
@@ -1847,7 +1847,7 @@
    * Jewel × 50
    * サポート強化Pt × 300
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_016.png" style="width:200px;"/>
 
 ### 日々の鍛錬: レッスンを30回クリア
 * Rewards
@@ -1855,7 +1855,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_017.png" style="width:200px;"/>
 
 ### 気合を入れて: SPレッスンを30回クリア
 * Rewards
@@ -1863,7 +1863,7 @@
    * Jewel × 50
    * サポート強化Pt × 300
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_018.png" style="width:200px;"/>
 
 ### 熱血指導: プロデュースで体力を合計500消費
 * Rewards
@@ -1871,7 +1871,7 @@
    * Jewel × 50
    * サポート強化Pt × 200
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_019.png" style="width:200px;"/>
 
 ### 中級プロデューサー: 最終試験をスコアB以上で1回合格
 * Rewards
@@ -1879,7 +1879,7 @@
    * Jewel × 50
    * サポート強化Pt × 300
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_020.png" style="width:200px;"/>
 
 ### 上級プロデューサー: 最終試験をスコアA以上で1回合格
 * Rewards
@@ -1887,7 +1887,7 @@
    * Jewel × 50
    * サポート強化Pt × 1000
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_021.png" style="width:200px;"/>
 
 ### ベテランプロデューサー: 最終試験をスコアA+以上で1回合格
 * Rewards
@@ -1895,7 +1895,7 @@
    * Jewel × 50
    * サポート強化Pt × 1000
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_022.png" style="width:200px;"/>
 
 ### 敏腕プロデューサー: 最終試験をスコアS以上で1回合格
 * Rewards
@@ -1903,7 +1903,7 @@
    * Jewel × 100
    * サポート強化Pt × 1100
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_024.png" style="width:200px;"/>
 
 ### つぼみから花へ: True Endを3人達成
 * Rewards
@@ -1911,7 +1911,7 @@
    * Jewel × 50
    * サポート強化Pt × 900
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_produce_025.png" style="width:200px;"/>
 
 ### 積み重なる経験: プロデュースを3回完了
 * Rewards
@@ -1920,139 +1920,139 @@
    * サポート強化Pt × 200
 
 ## Other
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_001.png" style="width:200px;"/>
 
 ### 初星学園へようこそ: プロデュースを始めた証
 * Rewards
   * Jewel × 30
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_002.png" style="width:200px;"/>
 
 ### がんばりや: お仕事を合計1000時間
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_003.png" style="width:200px;"/>
 
 ### 単位取得: 課題を50個クリア
 * Rewards
   * Jewel × 30
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_004.png" style="width:200px;"/>
 
 ### 成績優秀: 課題を100個クリア
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_006.png" style="width:200px;"/>
 
 ### ルーキー卒業: プロデューサーLv30に到達
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_007.png" style="width:200px;"/>
 
 ### 道半ば: プロデューサーLv45に到達
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_009.png" style="width:200px;"/>
 
 ### 打ち出の小槌: 活動費で合計2000000のマニーを受け取る
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_010.png" style="width:200px;"/>
 
 ### 下積み: 合計ファン数を400000人にする
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_011.png" style="width:200px;"/>
 
 ### 稼ぎ頭: 合計ファン数を2000000人にする
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_012.png" style="width:200px;"/>
 
 ### ヒットメーカー: 合計ファン数を7000000人にする
 * Rewards
   * Jewel × 100
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_013.png" style="width:200px;"/>
 
 ### 幅広い人脈: フォロワー数500人以上
 * Rewards
   * Jewel × 100
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_014.png" style="width:200px;"/>
 
 ### コンテスト覇者: コンテストで1位以内に入る
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_015.png" style="width:200px;"/>
 
 ### 一流: コンテストで100位以内に入る
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_016.png" style="width:200px;"/>
 
 ### 夢への第一歩: コンテストでグレード1に到達
 * Rewards
   * Jewel × 30
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_017.png" style="width:200px;"/>
 
 ### 青二才の努力: コンテストでグレード2に到達
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_018.png" style="width:200px;"/>
 
 ### 石の上にも三年: コンテストでグレード3に到達
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_019.png" style="width:200px;"/>
 
 ### 四六時中アイドル: コンテストでグレード4に到達
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_020.png" style="width:200px;"/>
 
 ### 五感を駆使して: コンテストでグレード5に到達
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_021.png" style="width:200px;"/>
 
 ### 六芸に通ず: コンテストでグレード6に到達
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_022.png" style="width:200px;"/>
 
 ### 七海に轟く: コンテストでグレード7に到達
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_023.png" style="width:200px;"/>
 
 ### 期待の新人: コンテストでスコアを10000以上獲得
 * Rewards
   * Jewel × 30
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_024.png" style="width:200px;"/>
 
 ### ダークホース: コンテストでスコアを30000以上獲得
 * Rewards
   * Jewel × 50
 
-<img src="img/img_general_achievement_char_ttmr-012.png" style="width:200px;"/>
+<img src="img/img_general_achievement_common_025.png" style="width:200px;"/>
 
 ### 本命候補: コンテストでスコアを60000以上獲得
 * Rewards
