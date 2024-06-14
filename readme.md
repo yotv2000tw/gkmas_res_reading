@@ -1,5 +1,6 @@
-# 學園偶像大師部分資源可讀化項目
-## 用途
-* 主要是提供個人查閱使用。
-## 目錄
-1. [成就列表（含描述與獎勵）](output\Achievement.md)
+# gkmas_res_reading
+## Goal
+* Make resources of gkmas can be read easily.
+* This respository is for personal use.
+## Menu
+1. [Achievement List(Including Description & Rewards)](output/Achievement.md)
