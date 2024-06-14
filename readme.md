@@ -4,3 +4,4 @@
 * This respository is for personal use.
 ## Menu
 1. [Achievement List(Including Description & Rewards)](output/Achievement.md)
+2. [CharacterPushMessage](output/CharacterPushMessage.md)
