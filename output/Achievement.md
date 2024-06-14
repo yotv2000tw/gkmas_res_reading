@@ -1,8 +1,8 @@
 # Achievement
 ## Table of contents
-* [Idol](##Idol)
-* [Produce](##Producer)
-* [Other](##Other)
+* [Idol](#Idol)
+* [Produce](#Producer)
+* [Other](#Other)
 ## Idol
 ### アドレナリン全開: 【Yellow Big Bang！】藤田 ことねのプロデュースで最終試験に合格
 * Rewards
