@@ -4,8 +4,8 @@
 * [Produce](#Produce)
 * [Other](#Other)
 ## Total
-* Exp × 704300
-* Jewel × 29050
+* Exp × 707050
+* Jewel × 29140
 ## Idol
 <img src="img/img_general_achievement_fktn-3-001_001.png" style="width:200px;"/>
 
@@ -24,6 +24,27 @@
 <img src="img/img_general_achievement_fktn-3-001_003.png" style="width:200px;"/>
 
 ### ちょー元気！: 【Yellow Big Bang！】藤田 ことねのプロデュースで評価A+以上を1回獲得
+* Rewards
+	* Jewel × 50
+	* Exp × 1500
+
+<img src="img/img_general_achievement_hski-3-001_001.png" style="width:200px;"/>
+
+### POW！: 【Boom Boom Pow】花海 咲季のプロデュースで最終試験に合格
+* Rewards
+	* Jewel × 20
+	* Exp × 250
+
+<img src="img/img_general_achievement_hski-3-001_002.png" style="width:200px;"/>
+
+### Boom Boom Pow: 【Boom Boom Pow】花海 咲季の特訓段階を3にする
+* Rewards
+	* Jewel × 20
+	* Exp × 1000
+
+<img src="img/img_general_achievement_hski-3-001_003.png" style="width:200px;"/>
+
+### プロポーズしてきなさいっ♡: 【Boom Boom Pow】花海 咲季のプロデュースで評価A+以上を1回獲得
 * Rewards
 	* Jewel × 50
 	* Exp × 1500
