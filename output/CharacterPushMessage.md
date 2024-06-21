@@ -1,17 +1,4 @@
 # CharacterPushMessage
-## Table of contents
-
-<!-- toc -->
-
-- [ApFull](#apfull)
-- [MoneyFull](#moneyfull)
-- [DailyMission](#dailymission)
-- [Login](#login)
-- [WorkMiniLiveFinish](#workminilivefinish)
-- [WorkLiveStreamingFinish](#worklivestreamingfinish)
-
-<!-- tocstop -->
-
 ## ApFull
 ### 有村 麻央
 さぁ、プロデュースの時間ですよ！
