@@ -1,8 +1,15 @@
 # Achievement
 ## Table of contents
-* [Idol](#Idol)
-* [Produce](#Produce)
-* [Other](#Other)
+
+<!-- toc -->
+
+- [Total](#total)
+- [Idol](#idol)
+- [Produce](#produce)
+- [Other](#other)
+
+<!-- tocstop -->
+
 ## Total
 * Exp × 707050
 * Jewel × 29140

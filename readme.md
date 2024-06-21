@@ -1,4 +1,12 @@
 # gkmas_res_reading
+
+<!-- toc -->
+
+- [Goal](#goal)
+- [Menu](#menu)
+
+<!-- tocstop -->
+
 ## Goal
 * Make resources of gkmas can be read easily.
 * This respository is for personal use.
