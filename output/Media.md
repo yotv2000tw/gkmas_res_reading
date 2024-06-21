@@ -63,7 +63,7 @@
 <img src="img/img_general_comic_0001-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0001.png" style="width:200px;"/>
+<img src="img/img_general_comic_0001.png" style="width:500px;"/>
 
 ### 手作りのお味
 * Character:
@@ -73,7 +73,7 @@
 <img src="img/img_general_comic_0002-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0002.png" style="width:200px;"/>
+<img src="img/img_general_comic_0002.png" style="width:500px;"/>
 
 ### 相反する二人
 * Character:
@@ -83,7 +83,7 @@
 <img src="img/img_general_comic_0003-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0003.png" style="width:200px;"/>
+<img src="img/img_general_comic_0003.png" style="width:500px;"/>
 
 ### ちぐはぐ
 * Character:
@@ -92,7 +92,7 @@
 <img src="img/img_general_comic_0004-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0004.png" style="width:200px;"/>
+<img src="img/img_general_comic_0004.png" style="width:500px;"/>
 
 ### 寮長と攻防
 * Character:
@@ -102,7 +102,7 @@
 <img src="img/img_general_comic_0005-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0005.png" style="width:200px;"/>
+<img src="img/img_general_comic_0005.png" style="width:500px;"/>
 
 ### 三者三様
 * Character:
@@ -113,7 +113,7 @@
 <img src="img/img_general_comic_0006-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0006.png" style="width:200px;"/>
+<img src="img/img_general_comic_0006.png" style="width:500px;"/>
 
 ### 毎日努力中
 * Character:
@@ -122,7 +122,7 @@
 <img src="img/img_general_comic_0007-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0007.png" style="width:200px;"/>
+<img src="img/img_general_comic_0007.png" style="width:500px;"/>
 
 ### 絵になる二人
 * Character:
@@ -132,7 +132,7 @@
 <img src="img/img_general_comic_0008-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0008.png" style="width:200px;"/>
+<img src="img/img_general_comic_0008.png" style="width:500px;"/>
 
 ### 可愛い後輩たち
 * Character:
@@ -143,7 +143,7 @@
 <img src="img/img_general_comic_0009-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0009.png" style="width:200px;"/>
+<img src="img/img_general_comic_0009.png" style="width:500px;"/>
 
 ### 2人きりだから…♡
 * Character:
@@ -152,7 +152,7 @@
 <img src="img/img_general_comic_0010-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0010.png" style="width:200px;"/>
+<img src="img/img_general_comic_0010.png" style="width:500px;"/>
 
 ### これでもストレッチ中
 * Character:
@@ -162,7 +162,7 @@
 <img src="img/img_general_comic_0011-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0011.png" style="width:200px;"/>
+<img src="img/img_general_comic_0011.png" style="width:500px;"/>
 
 ### 天才少女はナチュラルに
 * Character:
@@ -172,7 +172,7 @@
 <img src="img/img_general_comic_0012-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0012.png" style="width:200px;"/>
+<img src="img/img_general_comic_0012.png" style="width:500px;"/>
 
 ### どうしよう
 * Character:
@@ -183,7 +183,7 @@
 <img src="img/img_general_comic_0013-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0013.png" style="width:200px;"/>
+<img src="img/img_general_comic_0013.png" style="width:500px;"/>
 
 ### 憧れの人
 * Character:
@@ -193,7 +193,7 @@
 <img src="img/img_general_comic_0014-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0014.png" style="width:200px;"/>
+<img src="img/img_general_comic_0014.png" style="width:500px;"/>
 
 ### ふたりはなかよし♪
 * Character:
@@ -203,7 +203,7 @@
 <img src="img/img_general_comic_0015-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0015.png" style="width:200px;"/>
+<img src="img/img_general_comic_0015.png" style="width:500px;"/>
 
 ### 矢も盾もたまらず
 * Character:
@@ -213,7 +213,7 @@
 <img src="img/img_general_comic_0016-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0016.png" style="width:200px;"/>
+<img src="img/img_general_comic_0016.png" style="width:500px;"/>
 
 ### あの日の約束
 * Character:
@@ -223,7 +223,7 @@
 <img src="img/img_general_comic_0017-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0017.png" style="width:200px;"/>
+<img src="img/img_general_comic_0017.png" style="width:500px;"/>
 
 ### 同志みつけたり
 * Character:
@@ -233,7 +233,7 @@
 <img src="img/img_general_comic_0018-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0018.png" style="width:200px;"/>
+<img src="img/img_general_comic_0018.png" style="width:500px;"/>
 
 ### 元気いっぱい！
 * Character:
@@ -244,7 +244,7 @@
 <img src="img/img_general_comic_0019-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0019.png" style="width:200px;"/>
+<img src="img/img_general_comic_0019.png" style="width:500px;"/>
 
 ### お世話したい
 * Character:
@@ -254,7 +254,7 @@
 <img src="img/img_general_comic_0020-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0020.png" style="width:200px;"/>
+<img src="img/img_general_comic_0020.png" style="width:500px;"/>
 
 ### カリスマ会長の内心は
 * Character:
@@ -264,7 +264,7 @@
 <img src="img/img_general_comic_0021-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic_0021.png" style="width:200px;"/>
+<img src="img/img_general_comic_0021.png" style="width:500px;"/>
 
 ## Comic4
 ### 第1話-学マス4コマ始まります！
@@ -276,7 +276,7 @@
 <img src="img/img_general_comic4_0000-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0000.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0000.png" style="width:500px;"/>
 
 ### 第2話-追加プロフィール
 * Character:
@@ -288,7 +288,7 @@
 <img src="img/img_general_comic4_0001-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0001.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0001.png" style="width:500px;"/>
 
 ### 第3話-厳しさの裏では…
 * Character:
@@ -298,7 +298,7 @@
 <img src="img/img_general_comic4_0002-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0002.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0002.png" style="width:500px;"/>
 
 ### 第4話-多方面に忙しい
 * Character:
@@ -308,7 +308,7 @@
 <img src="img/img_general_comic4_0003-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0003.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0003.png" style="width:500px;"/>
 
 ### 第5話-気が緩む瞬間
 * Character:
@@ -320,7 +320,7 @@
 <img src="img/img_general_comic4_0004-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0004.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0004.png" style="width:500px;"/>
 
 ### 第6話-初星学園は自由がいっぱい
 * Character:
@@ -331,7 +331,7 @@
 <img src="img/img_general_comic4_0005-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0005.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0005.png" style="width:500px;"/>
 
 ### 第7話-休日の過ごし方
 * Character:
@@ -341,7 +341,7 @@
 <img src="img/img_general_comic4_0006-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0006.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0006.png" style="width:500px;"/>
 
 ### 第8話-わたしのこと
 * Character:
@@ -351,7 +351,7 @@
 <img src="img/img_general_comic4_0007-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0007.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0007.png" style="width:500px;"/>
 
 ### 第9話-アイドル科のいいところ
 * Character:
@@ -362,7 +362,7 @@
 <img src="img/img_general_comic4_0008-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0008.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0008.png" style="width:500px;"/>
 
 ### 第10話-頑張りすぎる君に
 * Character:
@@ -372,7 +372,7 @@
 <img src="img/img_general_comic4_0009-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0009.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0009.png" style="width:500px;"/>
 
 ### 第11話-プロデューサー科とは
 * Character:
@@ -384,7 +384,7 @@
 <img src="img/img_general_comic4_0010-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0010.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0010.png" style="width:500px;"/>
 
 ### 第12話-倉本家の箱入り娘
 * Character:
@@ -393,7 +393,7 @@
 <img src="img/img_general_comic4_0011-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0011.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0011.png" style="width:500px;"/>
 
 ### 第13話-どっちがすごいの？
 * Character:
@@ -408,7 +408,7 @@
 <img src="img/img_general_comic4_0012-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0012.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0012.png" style="width:500px;"/>
 
 ### 第14話-いつでもどこでも
 * Character:
@@ -418,7 +418,7 @@
 <img src="img/img_general_comic4_0013-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0013.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0013.png" style="width:500px;"/>
 
 ### 第15話-寮のあれこれ
 * Character:
@@ -430,7 +430,7 @@
 <img src="img/img_general_comic4_0014-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0014.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0014.png" style="width:500px;"/>
 
 ### 第16話-学園施設へご案内♪
 * Character:
@@ -441,7 +441,7 @@
 <img src="img/img_general_comic4_0015-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0015.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0015.png" style="width:500px;"/>
 
 ### 第17話-生徒会の日常
 * Character:
@@ -454,7 +454,7 @@
 <img src="img/img_general_comic4_0016-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0016.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0016.png" style="width:500px;"/>
 
 ### 第18話-あさり先生という人
 * Character:
@@ -466,7 +466,7 @@
 <img src="img/img_general_comic4_0017-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0017.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0017.png" style="width:500px;"/>
 
 ### 第19話-学園長ってどんな人？
 * Character:
@@ -476,7 +476,7 @@
 <img src="img/img_general_comic4_0018-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0018.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0018.png" style="width:500px;"/>
 
 ### 第20話-略称はSSD
 * Character:
@@ -487,7 +487,7 @@
 <img src="img/img_general_comic4_0019-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0019.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0019.png" style="width:500px;"/>
 
 ### 第21話-アイドル月村手毬
 * Character:
@@ -498,7 +498,7 @@
 <img src="img/img_general_comic4_0020-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0020.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0020.png" style="width:500px;"/>
 
 ### 第22話-れっつパーティ
 * Character:
@@ -511,7 +511,7 @@
 <img src="img/img_general_comic4_0021-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0021.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0021.png" style="width:500px;"/>
 
 ### 第23話-ライバルはお姉ちゃん
 * Character:
@@ -521,7 +521,7 @@
 <img src="img/img_general_comic4_0022-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0022.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0022.png" style="width:500px;"/>
 
 ### 第24話-レッスンの観客
 * Character:
@@ -530,7 +530,7 @@
 <img src="img/img_general_comic4_0023-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0023.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0023.png" style="width:500px;"/>
 
 ### 第25話-ピタッと共同生活
 * Character:
@@ -541,4 +541,4 @@
 <img src="img/img_general_comic4_0024-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-<img src="img/img_general_comic4_0024.png" style="width:200px;"/>
+<img src="img/img_general_comic4_0024.png" style="width:500px;"/>
