@@ -261,7 +261,7 @@
 <img src="img/img_general_comic_0021.png" style="width:200px;"/>
 
 ## Comic4
-### 第1話 学マス4コマ始まります！
+### 第1話-学マス4コマ始まります！
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -272,7 +272,7 @@
 * content:
 <img src="img/img_general_comic4_0000.png" style="width:200px;"/>
 
-### 第2話 追加プロフィール
+### 第2話-追加プロフィール
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -284,7 +284,7 @@
 * content:
 <img src="img/img_general_comic4_0001.png" style="width:200px;"/>
 
-### 第3話 厳しさの裏では…
+### 第3話-厳しさの裏では…
 * Character:
 	* 月村 手毬
 	* 藤田 ことね
@@ -294,7 +294,7 @@
 * content:
 <img src="img/img_general_comic4_0002.png" style="width:200px;"/>
 
-### 第4話 多方面に忙しい
+### 第4話-多方面に忙しい
 * Character:
 	* 月村 手毬
 	* 藤田 ことね
@@ -304,7 +304,7 @@
 * content:
 <img src="img/img_general_comic4_0003.png" style="width:200px;"/>
 
-### 第5話 気が緩む瞬間
+### 第5話-気が緩む瞬間
 * Character:
 	* 姫崎 莉波
 	* 花海 佑芽
@@ -316,7 +316,7 @@
 * content:
 <img src="img/img_general_comic4_0004.png" style="width:200px;"/>
 
-### 第6話 初星学園は自由がいっぱい
+### 第6話-初星学園は自由がいっぱい
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -327,7 +327,7 @@
 * content:
 <img src="img/img_general_comic4_0005.png" style="width:200px;"/>
 
-### 第7話 休日の過ごし方
+### 第7話-休日の過ごし方
 * Character:
 	* 紫雲 清夏
 	* 葛城 リーリヤ
@@ -337,7 +337,7 @@
 * content:
 <img src="img/img_general_comic4_0006.png" style="width:200px;"/>
 
-### 第8話 わたしのこと
+### 第8話-わたしのこと
 * Character:
 	* 篠澤 広
 	* 十王 邦夫
@@ -347,7 +347,7 @@
 * content:
 <img src="img/img_general_comic4_0007.png" style="width:200px;"/>
 
-### 第9話 アイドル科のいいところ
+### 第9話-アイドル科のいいところ
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -358,7 +358,7 @@
 * content:
 <img src="img/img_general_comic4_0008.png" style="width:200px;"/>
 
-### 第10話 頑張りすぎる君に
+### 第10話-頑張りすぎる君に
 * Character:
 	* 葛城 リーリヤ
 	* 有村 麻央
@@ -368,7 +368,7 @@
 * content:
 <img src="img/img_general_comic4_0009.png" style="width:200px;"/>
 
-### 第11話 プロデューサー科とは
+### 第11話-プロデューサー科とは
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -380,7 +380,7 @@
 * content:
 <img src="img/img_general_comic4_0010.png" style="width:200px;"/>
 
-### 第12話 倉本家の箱入り娘
+### 第12話-倉本家の箱入り娘
 * Character:
 	* 倉本 千奈
 * thumbnail: 
@@ -389,7 +389,7 @@
 * content:
 <img src="img/img_general_comic4_0011.png" style="width:200px;"/>
 
-### 第13話 どっちがすごいの？
+### 第13話-どっちがすごいの？
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -404,7 +404,7 @@
 * content:
 <img src="img/img_general_comic4_0012.png" style="width:200px;"/>
 
-### 第14話 いつでもどこでも
+### 第14話-いつでもどこでも
 * Character:
 	* 有村 麻央
 	* 姫崎 莉波
@@ -414,7 +414,7 @@
 * content:
 <img src="img/img_general_comic4_0013.png" style="width:200px;"/>
 
-### 第15話 寮のあれこれ
+### 第15話-寮のあれこれ
 * Character:
 	* 有村 麻央
 	* 葛城 リーリヤ
@@ -426,7 +426,7 @@
 * content:
 <img src="img/img_general_comic4_0014.png" style="width:200px;"/>
 
-### 第16話 学園施設へご案内♪
+### 第16話-学園施設へご案内♪
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -437,7 +437,7 @@
 * content:
 <img src="img/img_general_comic4_0015.png" style="width:200px;"/>
 
-### 第17話 生徒会の日常
+### 第17話-生徒会の日常
 * Character:
 	* 花海 佑芽
 	* 秦谷 美鈴
@@ -450,7 +450,7 @@
 * content:
 <img src="img/img_general_comic4_0016.png" style="width:200px;"/>
 
-### 第18話 あさり先生という人
+### 第18話-あさり先生という人
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -462,7 +462,7 @@
 * content:
 <img src="img/img_general_comic4_0017.png" style="width:200px;"/>
 
-### 第19話 学園長ってどんな人？
+### 第19話-学園長ってどんな人？
 * Character:
 	* 十王 邦夫
 	* 根緒 亜紗里
@@ -472,7 +472,7 @@
 * content:
 <img src="img/img_general_comic4_0018.png" style="width:200px;"/>
 
-### 第20話 略称はSSD
+### 第20話-略称はSSD
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -483,7 +483,7 @@
 * content:
 <img src="img/img_general_comic4_0019.png" style="width:200px;"/>
 
-### 第21話 アイドル月村手毬
+### 第21話-アイドル月村手毬
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -494,7 +494,7 @@
 * content:
 <img src="img/img_general_comic4_0020.png" style="width:200px;"/>
 
-### 第22話 れっつパーティ
+### 第22話-れっつパーティ
 * Character:
 	* 花海 咲季
 	* 月村 手毬
@@ -507,7 +507,7 @@
 * content:
 <img src="img/img_general_comic4_0021.png" style="width:200px;"/>
 
-### 第23話 ライバルはお姉ちゃん
+### 第23話-ライバルはお姉ちゃん
 * Character:
 	* 花海 咲季
 	* 花海 佑芽
@@ -517,7 +517,7 @@
 * content:
 <img src="img/img_general_comic4_0022.png" style="width:200px;"/>
 
-### 第24話 レッスンの観客
+### 第24話-レッスンの観客
 * Character:
 	* 藤田 ことね
 * thumbnail: 
@@ -526,7 +526,7 @@
 * content:
 <img src="img/img_general_comic4_0023.png" style="width:200px;"/>
 
-### 第25話 ピタッと共同生活
+### 第25話-ピタッと共同生活
 * Character:
 	* 花海 咲季
 	* 月村 手毬
