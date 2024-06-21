@@ -1,12 +1,6 @@
 # gkmas_res_reading
 
-<!-- toc -->
-
-- [Goal](#goal)
-- [Menu](#menu)
-
-<!-- tocstop -->
-
+## You can read this repo easily on [here](https://docs-gkmas.snowmaple.top).
 ## Goal
 * Make resources of gkmas can be read easily.
 * This respository is for personal use.
