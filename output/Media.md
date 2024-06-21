@@ -250,6 +250,7 @@
 
 * content:
 <img src="img/img_general_comic4_0000.png" style="width:200px;"/>
+
 ### comic4_0001: 追加プロフィール
 * Character:
 	* 花海 咲季
@@ -261,6 +262,7 @@
 
 * content:
 <img src="img/img_general_comic4_0001.png" style="width:200px;"/>
+
 ### comic4_0002: 厳しさの裏では…
 * Character:
 	* 月村 手毬
@@ -270,6 +272,7 @@
 
 * content:
 <img src="img/img_general_comic4_0002.png" style="width:200px;"/>
+
 ### comic4_0003: 多方面に忙しい
 * Character:
 	* 月村 手毬
@@ -279,6 +282,7 @@
 
 * content:
 <img src="img/img_general_comic4_0003.png" style="width:200px;"/>
+
 ### comic4_0004: 気が緩む瞬間
 * Character:
 	* 姫崎 莉波
@@ -290,6 +294,7 @@
 
 * content:
 <img src="img/img_general_comic4_0004.png" style="width:200px;"/>
+
 ### comic4_0005: 初星学園は自由がいっぱい
 * Character:
 	* 花海 咲季
@@ -300,6 +305,7 @@
 
 * content:
 <img src="img/img_general_comic4_0005.png" style="width:200px;"/>
+
 ### comic4_0006: 休日の過ごし方
 * Character:
 	* 紫雲 清夏
@@ -309,6 +315,7 @@
 
 * content:
 <img src="img/img_general_comic4_0006.png" style="width:200px;"/>
+
 ### comic4_0007: わたしのこと
 * Character:
 	* 篠澤 広
@@ -318,6 +325,7 @@
 
 * content:
 <img src="img/img_general_comic4_0007.png" style="width:200px;"/>
+
 ### comic4_0008: アイドル科のいいところ
 * Character:
 	* 花海 咲季
@@ -328,6 +336,7 @@
 
 * content:
 <img src="img/img_general_comic4_0008.png" style="width:200px;"/>
+
 ### comic4_0009: 頑張りすぎる君に
 * Character:
 	* 葛城 リーリヤ
@@ -337,6 +346,7 @@
 
 * content:
 <img src="img/img_general_comic4_0009.png" style="width:200px;"/>
+
 ### comic4_0010: プロデューサー科とは
 * Character:
 	* 花海 咲季
@@ -348,6 +358,7 @@
 
 * content:
 <img src="img/img_general_comic4_0010.png" style="width:200px;"/>
+
 ### comic4_0011: 倉本家の箱入り娘
 * Character:
 	* 倉本 千奈
@@ -356,6 +367,7 @@
 
 * content:
 <img src="img/img_general_comic4_0011.png" style="width:200px;"/>
+
 ### comic4_0012: どっちがすごいの？
 * Character:
 	* 花海 咲季
@@ -370,6 +382,7 @@
 
 * content:
 <img src="img/img_general_comic4_0012.png" style="width:200px;"/>
+
 ### comic4_0013: いつでもどこでも
 * Character:
 	* 有村 麻央
@@ -379,6 +392,7 @@
 
 * content:
 <img src="img/img_general_comic4_0013.png" style="width:200px;"/>
+
 ### comic4_0014: 寮のあれこれ
 * Character:
 	* 有村 麻央
@@ -390,6 +404,7 @@
 
 * content:
 <img src="img/img_general_comic4_0014.png" style="width:200px;"/>
+
 ### comic4_0015: 学園施設へご案内♪
 * Character:
 	* 花海 咲季
@@ -400,6 +415,7 @@
 
 * content:
 <img src="img/img_general_comic4_0015.png" style="width:200px;"/>
+
 ### comic4_0016: 生徒会の日常
 * Character:
 	* 花海 佑芽
@@ -412,6 +428,7 @@
 
 * content:
 <img src="img/img_general_comic4_0016.png" style="width:200px;"/>
+
 ### comic4_0017: あさり先生という人
 * Character:
 	* 花海 咲季
@@ -423,6 +440,7 @@
 
 * content:
 <img src="img/img_general_comic4_0017.png" style="width:200px;"/>
+
 ### comic4_0018: 学園長ってどんな人？
 * Character:
 	* 十王 邦夫
@@ -432,6 +450,7 @@
 
 * content:
 <img src="img/img_general_comic4_0018.png" style="width:200px;"/>
+
 ### comic4_0019: 略称はSSD
 * Character:
 	* 花海 咲季
@@ -442,6 +461,7 @@
 
 * content:
 <img src="img/img_general_comic4_0019.png" style="width:200px;"/>
+
 ### comic4_0020: アイドル月村手毬
 * Character:
 	* 花海 咲季
@@ -452,6 +472,7 @@
 
 * content:
 <img src="img/img_general_comic4_0020.png" style="width:200px;"/>
+
 ### comic4_0021: れっつパーティ
 * Character:
 	* 花海 咲季
@@ -464,6 +485,7 @@
 
 * content:
 <img src="img/img_general_comic4_0021.png" style="width:200px;"/>
+
 ### comic4_0022: ライバルはお姉ちゃん
 * Character:
 	* 花海 咲季
@@ -473,6 +495,7 @@
 
 * content:
 <img src="img/img_general_comic4_0022.png" style="width:200px;"/>
+
 ### comic4_0023: レッスンの観客
 * Character:
 	* 藤田 ことね
@@ -481,6 +504,7 @@
 
 * content:
 <img src="img/img_general_comic4_0023.png" style="width:200px;"/>
+
 ### comic4_0024: ピタッと共同生活
 * Character:
 	* 花海 咲季
