@@ -554,7 +554,7 @@
 <img src="img/img_general_media_pv_001-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-![](video/mov_general_media_pv_001.mp4)
+<video src="mov/mov_general_media_pv_001.mp4" width="320" height="240" controls></video>
 
 ### オープニング映像
 * Character:
@@ -563,4 +563,4 @@
 <img src="img/img_general_media_opening_001-thumb-thumb.png" style="width:200px;"/>
 
 * content:
-![](video/mov_general_media_opening_001.mp4)
+<video src="mov/mov_general_media_opening_001.mp4" width="320" height="240" controls></video>
