@@ -1,7 +1,7 @@
 # Achievement
 ## Total
 * Exp × 707050
-* Jewel × 29140
+* Jewel × 33040
 ## Idol
 <img src="img/img_general_achievement_fktn-3-001_001.png" style="width:200px;"/>
 
@@ -146,6 +146,12 @@
 * Rewards
 	* Jewel × 100
 
+<img src="img/img_general_achievement_amao-master_004.png" style="width:200px;"/>
+
+### マスターアチーブメント: 有村 麻央のアチーブメントの★を150個獲得
+* Rewards
+	* Jewel × 100
+
 <img src="img/img_general_achievement_fktn-master_001.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 藤田 ことねのアチーブメントの★を10個獲得
@@ -181,6 +187,12 @@
 <img src="img/img_general_achievement_fktn-master_003.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 藤田 ことねのアチーブメントの★を125個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_fktn-master_004.png" style="width:200px;"/>
+
+### マスターアチーブメント: 藤田 ことねのアチーブメントの★を150個獲得
 * Rewards
 	* Jewel × 100
 
@@ -222,6 +234,12 @@
 * Rewards
 	* Jewel × 100
 
+<img src="img/img_general_achievement_hrnm-master_004.png" style="width:200px;"/>
+
+### マスターアチーブメント: 姫崎 莉波のアチーブメントの★を150個獲得
+* Rewards
+	* Jewel × 100
+
 <img src="img/img_general_achievement_hski-master_001.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 花海 咲季のアチーブメントの★を10個獲得
@@ -257,6 +275,12 @@
 <img src="img/img_general_achievement_hski-master_003.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 花海 咲季のアチーブメントの★を125個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_hski-master_004.png" style="width:200px;"/>
+
+### マスターアチーブメント: 花海 咲季のアチーブメントの★を150個獲得
 * Rewards
 	* Jewel × 100
 
@@ -336,6 +360,12 @@
 * Rewards
 	* Jewel × 100
 
+<img src="img/img_general_achievement_kcna-master_004.png" style="width:200px;"/>
+
+### マスターアチーブメント: 倉本 千奈のアチーブメントの★を150個獲得
+* Rewards
+	* Jewel × 100
+
 <img src="img/img_general_achievement_kllj-master_001.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 葛城 リーリヤのアチーブメントの★を10個獲得
@@ -371,6 +401,12 @@
 <img src="img/img_general_achievement_kllj-master_003.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 葛城 リーリヤのアチーブメントの★を125個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_kllj-master_004.png" style="width:200px;"/>
+
+### マスターアチーブメント: 葛城 リーリヤのアチーブメントの★を150個獲得
 * Rewards
 	* Jewel × 100
 
@@ -412,6 +448,12 @@
 * Rewards
 	* Jewel × 100
 
+<img src="img/img_general_achievement_shro-master_004.png" style="width:200px;"/>
+
+### マスターアチーブメント: 篠澤 広のアチーブメントの★を150個獲得
+* Rewards
+	* Jewel × 100
+
 <img src="img/img_general_achievement_ssmk-master_001.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 紫雲 清夏のアチーブメントの★を10個獲得
@@ -450,6 +492,12 @@
 * Rewards
 	* Jewel × 100
 
+<img src="img/img_general_achievement_ssmk-master_004.png" style="width:200px;"/>
+
+### マスターアチーブメント: 紫雲 清夏のアチーブメントの★を150個獲得
+* Rewards
+	* Jewel × 100
+
 <img src="img/img_general_achievement_ttmr-master_001.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 月村 手毬のアチーブメントの★を10個獲得
@@ -485,6 +533,12 @@
 <img src="img/img_general_achievement_ttmr-master_003.png" style="width:200px;"/>
 
 ### マスターアチーブメント: 月村 手毬のアチーブメントの★を125個獲得
+* Rewards
+	* Jewel × 100
+
+<img src="img/img_general_achievement_ttmr-master_004.png" style="width:200px;"/>
+
+### マスターアチーブメント: 月村 手毬のアチーブメントの★を150個獲得
 * Rewards
 	* Jewel × 100
 
@@ -823,6 +877,42 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 30
+
+<img src="img/img_general_achievement_amao-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」有村麻央: 「アイドルへの道」でクリア条件の★を5個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_amao-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」有村麻央: 「アイドルへの道」でクリア条件の★を10個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_amao-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」有村麻央: 「アイドルへの道」でクリア条件の★を20個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_amao-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」有村麻央: 「アイドルへの道」でクリア条件の★を30個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_amao-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」有村麻央: 「アイドルへの道」でクリア条件の★を45個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_amao-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」有村麻央: 「アイドルへの道」でクリア条件の★を60個獲得
+* Rewards
+	* Jewel × 50
 
 <img src="img/img_general_achievement_amao-2-000_001.png" style="width:200px;"/>
 
@@ -1538,6 +1628,42 @@
 	* サポート強化Pt × 400
 	* Jewel × 30
 
+<img src="img/img_general_achievement_fktn-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」藤田ことね: 「アイドルへの道」でクリア条件の★を5個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_fktn-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」藤田ことね: 「アイドルへの道」でクリア条件の★を10個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_fktn-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」藤田ことね: 「アイドルへの道」でクリア条件の★を20個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_fktn-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」藤田ことね: 「アイドルへの道」でクリア条件の★を30個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_fktn-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」藤田ことね: 「アイドルへの道」でクリア条件の★を45個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_fktn-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」藤田ことね: 「アイドルへの道」でクリア条件の★を60個獲得
+* Rewards
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hrnm-011.png" style="width:200px;"/>
 
 ### 本当のきもち: 姫崎 莉波でTrue Endをみる
@@ -1873,6 +1999,42 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 30
+
+<img src="img/img_general_achievement_hrnm-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」姫崎莉波: 「アイドルへの道」でクリア条件の★を5個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hrnm-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」姫崎莉波: 「アイドルへの道」でクリア条件の★を10個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hrnm-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」姫崎莉波: 「アイドルへの道」でクリア条件の★を20個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hrnm-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」姫崎莉波: 「アイドルへの道」でクリア条件の★を30個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hrnm-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」姫崎莉波: 「アイドルへの道」でクリア条件の★を45個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hrnm-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」姫崎莉波: 「アイドルへの道」でクリア条件の★を60個獲得
+* Rewards
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_hski-011.png" style="width:200px;"/>
 
@@ -2210,6 +2372,42 @@
 	* サポート強化Pt × 400
 	* Jewel × 30
 
+<img src="img/img_general_achievement_hski-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海咲季: 「アイドルへの道」でクリア条件の★を5個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hski-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海咲季: 「アイドルへの道」でクリア条件の★を10個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hski-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海咲季: 「アイドルへの道」でクリア条件の★を20個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hski-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海咲季: 「アイドルへの道」でクリア条件の★を30個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hski-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海咲季: 「アイドルへの道」でクリア条件の★を45個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hski-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海咲季: 「アイドルへの道」でクリア条件の★を60個獲得
+* Rewards
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_hume-011.png" style="width:200px;"/>
 
 ### 人生最高のファインプレー: 花海 佑芽でTrue Endをみる
@@ -2545,6 +2743,42 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 30
+
+<img src="img/img_general_achievement_hume-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海佑芽: 「アイドルへの道」でクリア条件の★を5個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hume-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海佑芽: 「アイドルへの道」でクリア条件の★を10個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hume-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海佑芽: 「アイドルへの道」でクリア条件の★を20個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hume-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海佑芽: 「アイドルへの道」でクリア条件の★を30個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hume-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海佑芽: 「アイドルへの道」でクリア条件の★を45個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_hume-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」花海佑芽: 「アイドルへの道」でクリア条件の★を60個獲得
+* Rewards
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_kcna-011.png" style="width:200px;"/>
 
@@ -2882,6 +3116,42 @@
 	* サポート強化Pt × 400
 	* Jewel × 30
 
+<img src="img/img_general_achievement_kcna-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」倉本千奈: 「アイドルへの道」でクリア条件の★を5個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_kcna-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」倉本千奈: 「アイドルへの道」でクリア条件の★を10個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_kcna-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」倉本千奈: 「アイドルへの道」でクリア条件の★を20個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_kcna-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」倉本千奈: 「アイドルへの道」でクリア条件の★を30個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_kcna-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」倉本千奈: 「アイドルへの道」でクリア条件の★を45個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_kcna-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」倉本千奈: 「アイドルへの道」でクリア条件の★を60個獲得
+* Rewards
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_kllj-011.png" style="width:200px;"/>
 
 ### 光: 葛城 リーリヤでTrue Endをみる
@@ -3217,6 +3487,42 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 30
+
+<img src="img/img_general_achievement_kllj-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」葛城リーリヤ: 「アイドルへの道」でクリア条件の★を5個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_kllj-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」葛城リーリヤ: 「アイドルへの道」でクリア条件の★を10個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_kllj-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」葛城リーリヤ: 「アイドルへの道」でクリア条件の★を20個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_kllj-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」葛城リーリヤ: 「アイドルへの道」でクリア条件の★を30個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_kllj-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」葛城リーリヤ: 「アイドルへの道」でクリア条件の★を45個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_kllj-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」葛城リーリヤ: 「アイドルへの道」でクリア条件の★を60個獲得
+* Rewards
+	* Jewel × 50
 
 <img src="img/img_general_achievement_char_shro-011.png" style="width:200px;"/>
 
@@ -3554,6 +3860,42 @@
 	* サポート強化Pt × 400
 	* Jewel × 30
 
+<img src="img/img_general_achievement_shro-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」篠澤広: 「アイドルへの道」でクリア条件の★を5個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_shro-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」篠澤広: 「アイドルへの道」でクリア条件の★を10個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_shro-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」篠澤広: 「アイドルへの道」でクリア条件の★を20個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_shro-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」篠澤広: 「アイドルへの道」でクリア条件の★を30個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_shro-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」篠澤広: 「アイドルへの道」でクリア条件の★を45個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_shro-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」篠澤広: 「アイドルへの道」でクリア条件の★を60個獲得
+* Rewards
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ssmk-011.png" style="width:200px;"/>
 
 ### 踏み出した一歩: 紫雲 清夏でTrue Endをみる
@@ -3890,6 +4232,42 @@
 	* サポート強化Pt × 400
 	* Jewel × 30
 
+<img src="img/img_general_achievement_ssmk-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」紫雲清夏: 「アイドルへの道」でクリア条件の★を5個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_ssmk-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」紫雲清夏: 「アイドルへの道」でクリア条件の★を10個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_ssmk-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」紫雲清夏: 「アイドルへの道」でクリア条件の★を20個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_ssmk-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」紫雲清夏: 「アイドルへの道」でクリア条件の★を30個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_ssmk-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」紫雲清夏: 「アイドルへの道」でクリア条件の★を45個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_ssmk-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」紫雲清夏: 「アイドルへの道」でクリア条件の★を60個獲得
+* Rewards
+	* Jewel × 50
+
 <img src="img/img_general_achievement_char_ttmr-011.png" style="width:200px;"/>
 
 ### 私だけのプロデューサー: 月村 手毬でTrue Endをみる
@@ -4225,6 +4603,42 @@
 	* Exp × 300
 	* サポート強化Pt × 400
 	* Jewel × 30
+
+<img src="img/img_general_achievement_ttmr-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」月村手毬: 「アイドルへの道」でクリア条件の★を5個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_ttmr-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」月村手毬: 「アイドルへの道」でクリア条件の★を10個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_ttmr-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」月村手毬: 「アイドルへの道」でクリア条件の★を20個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_ttmr-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」月村手毬: 「アイドルへの道」でクリア条件の★を30個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_ttmr-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」月村手毬: 「アイドルへの道」でクリア条件の★を45個獲得
+* Rewards
+	* Jewel × 50
+
+<img src="img/img_general_achievement_ttmr-tower_001.png" style="width:200px;"/>
+
+### 「アイドルへの道」月村手毬: 「アイドルへの道」でクリア条件の★を60個獲得
+* Rewards
+	* Jewel × 50
 
 ## Produce
 <img src="img/img_general_achievement_produce_001.png" style="width:200px;"/>

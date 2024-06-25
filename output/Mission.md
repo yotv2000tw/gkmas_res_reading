@@ -69,6 +69,15 @@
 ### 広初期SSR/SR/Rプロデュース不合格
 * Rewards
 	* None
+### 「アイドルへの道」で星を獲得
+* Rewards
+	* None
+### 「アイドルへの道」で星を獲得
+* Rewards
+	* None
+### 「アイドルへの道」で星を獲得
+* Rewards
+	* None
 ### 麻央でA Endを見る
 * Rewards
 	* None
