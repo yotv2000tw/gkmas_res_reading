@@ -488,21 +488,56 @@
 * content:
 <img src="img/img_general_comic4_0024.png" style="width:500px;"/>
 
+### 第26話-花海咲季の魅力
+* Character:
+	* 花海 咲季
+	* 花海 佑芽
+* thumbnail: 
+<img src="img/img_general_comic4_0025-thumb-thumb.png" style="width:200px;"/>
+
+* content:
+<img src="img/img_general_comic4_0025.png" style="width:500px;"/>
+
+### 第27話-ずるい年上
+* Character:
+	* 紫雲 清夏
+* thumbnail: 
+<img src="img/img_general_comic4_0026-thumb-thumb.png" style="width:200px;"/>
+
+* content:
+<img src="img/img_general_comic4_0026.png" style="width:500px;"/>
+
+### 第28話-夏の定番
+* Character:
+	* 紫雲 清夏
+	* 有村 麻央
+	* 姫崎 莉波
+* thumbnail: 
+<img src="img/img_general_comic4_0027-thumb-thumb.png" style="width:200px;"/>
+
+* content:
+<img src="img/img_general_comic4_0027.png" style="width:500px;"/>
+
+### 第29話-きみを夢中に
+* Character:
+	* 姫崎 莉波
+* thumbnail: 
+<img src="img/img_general_comic4_0028-thumb-thumb.png" style="width:200px;"/>
+
+* content:
+<img src="img/img_general_comic4_0028.png" style="width:500px;"/>
+
+### 第30話-気になる存在
+* Character:
+	* 紫雲 清夏
+	* 秦谷 美鈴
+	* 藤田 ことね
+	* 葛城 リーリヤ
+	* 月村 手毬
+* thumbnail: 
+<img src="img/img_general_comic4_0029-thumb-thumb.png" style="width:200px;"/>
+
+* content:
+<img src="img/img_general_comic4_0029.png" style="width:500px;"/>
+
 ## Movie
-### 第1弾PV
-* Character:
-	* None.
-* thumbnail: 
-<img src="img/img_general_media_pv_001-thumb-thumb.png" style="width:200px;"/>
-
-* content:
-<video src="mov/mov_general_media_pv_001.mp4" width="320" height="240" controls></video>
-
-### オープニング映像
-* Character:
-	* None.
-* thumbnail: 
-<img src="img/img_general_media_opening_001-thumb-thumb.png" style="width:200px;"/>
-
-* content:
-<video src="mov/mov_general_media_opening_001.mp4" width="320" height="240" controls></video>

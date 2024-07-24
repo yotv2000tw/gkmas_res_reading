@@ -1,8 +1,29 @@
 # Achievement
 ## Total
-* Exp × 707050
-* Jewel × 33040
+* Exp × 718050
+* Jewel × 33400
 ## Idol
+<img src="img/img_general_achievement_amao-3-001_001.png" style="width:200px;"/>
+
+### ひんやり一休み: 【キミとセミブルー】有村 麻央のプロデュースで最終試験に合格
+* Rewards
+	* Jewel × 20
+	* Exp × 250
+
+<img src="img/img_general_achievement_amao-3-001_002.png" style="width:200px;"/>
+
+### キミとセミブルー: 【キミとセミブルー】有村 麻央の特訓段階を3にする
+* Rewards
+	* Jewel × 20
+	* Exp × 1000
+
+<img src="img/img_general_achievement_amao-3-001_003.png" style="width:200px;"/>
+
+### 最後の夏だから――: 【キミとセミブルー】有村 麻央のプロデュースで評価A+以上を1回獲得
+* Rewards
+	* Jewel × 50
+	* Exp × 1500
+
 <img src="img/img_general_achievement_fktn-3-001_001.png" style="width:200px;"/>
 
 ### アドレナリン全開: 【Yellow Big Bang！】藤田 ことねのプロデュースで最終試験に合格
@@ -20,6 +41,27 @@
 <img src="img/img_general_achievement_fktn-3-001_003.png" style="width:200px;"/>
 
 ### ちょー元気！: 【Yellow Big Bang！】藤田 ことねのプロデュースで評価A+以上を1回獲得
+* Rewards
+	* Jewel × 50
+	* Exp × 1500
+
+<img src="img/img_general_achievement_hrnm-3-001_001.png" style="width:200px;"/>
+
+### 入道雲と、きみ: 【キミとセミブルー】姫崎 莉波のプロデュースで最終試験に合格
+* Rewards
+	* Jewel × 20
+	* Exp × 250
+
+<img src="img/img_general_achievement_hrnm-3-001_002.png" style="width:200px;"/>
+
+### キミとセミブルー: 【キミとセミブルー】姫崎 莉波の特訓段階を3にする
+* Rewards
+	* Jewel × 20
+	* Exp × 1000
+
+<img src="img/img_general_achievement_hrnm-3-001_003.png" style="width:200px;"/>
+
+### 大人になったんだね: 【キミとセミブルー】姫崎 莉波のプロデュースで評価A+以上を1回獲得
 * Rewards
 	* Jewel × 50
 	* Exp × 1500
@@ -83,6 +125,48 @@
 <img src="img/img_general_achievement_hume-3-000_003.png" style="width:200px;"/>
 
 ### 全校生徒への挑戦状: 【The Rolling Riceball】花海 佑芽のプロデュースで評価A+以上を1回獲得
+* Rewards
+	* Jewel × 50
+	* Exp × 1500
+
+<img src="img/img_general_achievement_shro-3-001_001.png" style="width:200px;"/>
+
+### バスに揺られて: 【コントラスト】篠澤 広のプロデュースで最終試験に合格
+* Rewards
+	* Jewel × 20
+	* Exp × 250
+
+<img src="img/img_general_achievement_shro-3-001_002.png" style="width:200px;"/>
+
+### コントラスト: 【コントラスト】篠澤 広の特訓段階を3にする
+* Rewards
+	* Jewel × 20
+	* Exp × 1000
+
+<img src="img/img_general_achievement_shro-3-001_003.png" style="width:200px;"/>
+
+### 摩訶不思議な魅力: 【コントラスト】篠澤 広のプロデュースで評価A+以上を1回獲得
+* Rewards
+	* Jewel × 50
+	* Exp × 1500
+
+<img src="img/img_general_achievement_ssmk-3-001_001.png" style="width:200px;"/>
+
+### 昼下がりのそよ風: 【キミとセミブルー】紫雲 清夏のプロデュースで最終試験に合格
+* Rewards
+	* Jewel × 20
+	* Exp × 250
+
+<img src="img/img_general_achievement_ssmk-3-001_002.png" style="width:200px;"/>
+
+### キミとセミブルー: 【キミとセミブルー】紫雲 清夏の特訓段階を3にする
+* Rewards
+	* Jewel × 20
+	* Exp × 1000
+
+<img src="img/img_general_achievement_ssmk-3-001_003.png" style="width:200px;"/>
+
+### 来年の夏も、一緒に: 【キミとセミブルー】紫雲 清夏のプロデュースで評価A+以上を1回獲得
 * Rewards
 	* Jewel × 50
 	* Exp × 1500
