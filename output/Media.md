@@ -540,4 +540,56 @@
 * content:
 <img src="img/img_general_comic4_0029.png" style="width:500px;"/>
 
+### 第31話-めいっぱいの魅力
+* Character:
+	* 篠澤 広
+* thumbnail: 
+<img src="img/img_general_comic4_0030-thumb-thumb.png" style="width:200px;"/>
+
+* content:
+<img src="img/img_general_comic4_0030.png" style="width:500px;"/>
+
+### 第32話-真っ赤なルージュ
+* Character:
+	* 葛城 リーリヤ
+* thumbnail: 
+<img src="img/img_general_comic4_0031-thumb-thumb.png" style="width:200px;"/>
+
+* content:
+<img src="img/img_general_comic4_0031.png" style="width:500px;"/>
+
+### 第33話-静かなる戦い
+* Character:
+	* 花海 咲季
+	* 月村 手毬
+	* 藤田 ことね
+	* 紫雲 清夏
+	* 葛城 リーリヤ
+* thumbnail: 
+<img src="img/img_general_comic4_0032-thumb-thumb.png" style="width:200px;"/>
+
+* content:
+<img src="img/img_general_comic4_0032.png" style="width:500px;"/>
+
+### 第34話-一緒に大輪の花を
+* Character:
+	* 藤田 ことね
+* thumbnail: 
+<img src="img/img_general_comic4_0033-thumb-thumb.png" style="width:200px;"/>
+
+* content:
+<img src="img/img_general_comic4_0033.png" style="width:500px;"/>
+
+### 第35話-寮学生の未来はどっちだ
+* Character:
+	* 花海 咲季
+	* 月村 手毬
+	* 藤田 ことね
+	* 有村 麻央
+* thumbnail: 
+<img src="img/img_general_comic4_0034-thumb-thumb.png" style="width:200px;"/>
+
+* content:
+<img src="img/img_general_comic4_0034.png" style="width:500px;"/>
+
 ## Movie

@@ -1,7 +1,7 @@
 # Achievement
 ## Total
-* Exp × 718050
-* Jewel × 33400
+* Exp × 729050
+* Jewel × 33760
 ## Idol
 <img src="img/img_general_achievement_amao-3-001_001.png" style="width:200px;"/>
 
@@ -41,6 +41,27 @@
 <img src="img/img_general_achievement_fktn-3-001_003.png" style="width:200px;"/>
 
 ### ちょー元気！: 【Yellow Big Bang！】藤田 ことねのプロデュースで評価A+以上を1回獲得
+* Rewards
+	* Jewel × 50
+	* Exp × 1500
+
+<img src="img/img_general_achievement_fktn-3-002_001.png" style="width:200px;"/>
+
+### 夏の宵の線香花火: 【冠菊】藤田 ことねのプロデュースで最終試験に合格
+* Rewards
+	* Jewel × 20
+	* Exp × 250
+
+<img src="img/img_general_achievement_fktn-3-002_002.png" style="width:200px;"/>
+
+### 冠菊: 【冠菊】藤田 ことねの特訓段階を3にする
+* Rewards
+	* Jewel × 20
+	* Exp × 1000
+
+<img src="img/img_general_achievement_fktn-3-002_003.png" style="width:200px;"/>
+
+### 離れたくないんです: 【冠菊】藤田 ことねのプロデュースで評価A+以上を1回獲得
 * Rewards
 	* Jewel × 50
 	* Exp × 1500
@@ -87,6 +108,27 @@
 	* Jewel × 50
 	* Exp × 1500
 
+<img src="img/img_general_achievement_hski-3-002_001.png" style="width:200px;"/>
+
+### 金魚すくいで勝負: 【冠菊】花海 咲季のプロデュースで最終試験に合格
+* Rewards
+	* Jewel × 20
+	* Exp × 250
+
+<img src="img/img_general_achievement_hski-3-002_002.png" style="width:200px;"/>
+
+### 冠菊: 【冠菊】花海 咲季の特訓段階を3にする
+* Rewards
+	* Jewel × 20
+	* Exp × 1000
+
+<img src="img/img_general_achievement_hski-3-002_003.png" style="width:200px;"/>
+
+### 叶えてあげるわ: 【冠菊】花海 咲季のプロデュースで評価A+以上を1回獲得
+* Rewards
+	* Jewel × 50
+	* Exp × 1500
+
 <img src="img/img_general_achievement_hume-2-000_001.png" style="width:200px;"/>
 
 ### 打倒お姉ちゃん: 【アイドル、はじめっ！】花海 佑芽のプロデュースで最終試験に合格
@@ -125,6 +167,48 @@
 <img src="img/img_general_achievement_hume-3-000_003.png" style="width:200px;"/>
 
 ### 全校生徒への挑戦状: 【The Rolling Riceball】花海 佑芽のプロデュースで評価A+以上を1回獲得
+* Rewards
+	* Jewel × 50
+	* Exp × 1500
+
+<img src="img/img_general_achievement_kcna-3-001_001.png" style="width:200px;"/>
+
+### お茶会へようこそ♪: 【日々、発見的ステップ！】倉本 千奈のプロデュースで最終試験に合格
+* Rewards
+	* Jewel × 20
+	* Exp × 250
+
+<img src="img/img_general_achievement_kcna-3-001_002.png" style="width:200px;"/>
+
+### 日々、発見的ステップ！: 【日々、発見的ステップ！】倉本 千奈の特訓段階を3にする
+* Rewards
+	* Jewel × 20
+	* Exp × 1000
+
+<img src="img/img_general_achievement_kcna-3-001_003.png" style="width:200px;"/>
+
+### ありのままのわたくしを！: 【日々、発見的ステップ！】倉本 千奈のプロデュースで評価A+以上を1回獲得
+* Rewards
+	* Jewel × 50
+	* Exp × 1500
+
+<img src="img/img_general_achievement_kllj-3-001_001.png" style="width:200px;"/>
+
+### はじめてのラムネ: 【冠菊】葛城 リーリヤのプロデュースで最終試験に合格
+* Rewards
+	* Jewel × 20
+	* Exp × 250
+
+<img src="img/img_general_achievement_kllj-3-001_002.png" style="width:200px;"/>
+
+### 冠菊: 【冠菊】葛城 リーリヤの特訓段階を3にする
+* Rewards
+	* Jewel × 20
+	* Exp × 1000
+
+<img src="img/img_general_achievement_kllj-3-001_003.png" style="width:200px;"/>
+
+### もう少しだけ、このままで: 【冠菊】葛城 リーリヤのプロデュースで評価A+以上を1回獲得
 * Rewards
 	* Jewel × 50
 	* Exp × 1500
